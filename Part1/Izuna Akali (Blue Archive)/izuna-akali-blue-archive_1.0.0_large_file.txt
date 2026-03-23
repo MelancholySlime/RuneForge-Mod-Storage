@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : izuna-akali-blue-archive_1.0.0.fantome
+Mod      : Izuna Akali (Blue Archive)
+Source   : https://runeforge.dev/mods/1e59c100-8f47-4a05-8304-f1337f104433
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/izuna-akali-blue-archive_1.0.0/izuna-akali-blue-archive_1.0.0.fantome

@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : chainsaw-man-ambessa_1.0.0.fantome
+Mod      : Chainsaw Man Ambessa
+Source   : https://runeforge.dev/mods/12cb7811-4bf6-4ce9-a8e8-feb9f4707ca7
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/chainsaw-man-ambessa_1.0.0/chainsaw-man-ambessa_1.0.0.fantome

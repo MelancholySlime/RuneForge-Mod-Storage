@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : evelynn_1.0.0.fantome
+Mod      : Laura (Eternal Returns) Evelynn
+Source   : https://runeforge.dev/mods/4326b4f9-45dd-4afc-9dec-327e077136c9
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/evelynn_1.0.0/evelynn_1.0.0.fantome

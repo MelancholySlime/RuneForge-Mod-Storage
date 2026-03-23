@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : zaahen-as-old-aatrox_1.0.0.fantome
+Mod      : Zaahen as Old Aatrox
+Source   : https://runeforge.dev/mods/ae4839d8-1ebf-4e75-9833-d50e45fae65b
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/zaahen-as-old-aatrox_1.0.0/zaahen-as-old-aatrox_1.0.0.fantome

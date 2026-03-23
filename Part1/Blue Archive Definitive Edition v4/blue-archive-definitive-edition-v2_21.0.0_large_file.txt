@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : blue-archive-definitive-edition-v2_21.0.0.fantome
+Mod      : Blue Archive Definitive Edition v4
+Source   : https://runeforge.dev/mods/f1ebe19e-103a-488b-9a20-e023a997067a
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/blue-archive-definitive-edition-v2_21.0.0/blue-archive-definitive-edition-v2_21.0.0.fantome
