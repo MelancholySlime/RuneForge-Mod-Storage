@@ -4,9 +4,7 @@ name: Runeforge Backfill Index
 # với toàn bộ files đã tồn tại trên repo (kể cả trước khi có hệ thống JSON)
 
 on:
-  schedule:
-    # 9h30 sáng hàng ngày (UTC+7 = 2h30 UTC) — sau scraper 2 tiếng
-    - cron: '30 2 * * *'
+  
   workflow_dispatch:
 
 jobs:
