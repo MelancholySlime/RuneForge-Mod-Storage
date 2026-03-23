@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : music-on-spells_0.0.2.fantome
+Mod      : Spirit Guard Udyr [old music on spells]
+Source   : https://runeforge.dev/mods/6a10a3e9-3971-43b1-9b89-61255013aa7e
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/music-on-spells_0.0.2/music-on-spells_0.0.2.fantome
