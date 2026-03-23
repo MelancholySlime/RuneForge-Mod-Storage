@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : rusty-car-singed-v1-6_1.5.8.fantome
+Mod      : Rusty Car Singed V1.6
+Source   : https://runeforge.dev/mods/0af029d0-0768-4f27-9300-15064cfb8f11
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/rusty-car-singed-v1-6_1.5.8/rusty-car-singed-v1-6_1.5.8.fantome
