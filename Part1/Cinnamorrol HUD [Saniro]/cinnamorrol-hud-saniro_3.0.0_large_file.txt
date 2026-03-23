@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : cinnamorrol-hud-saniro_3.0.0.fantome
+Mod      : Cinnamorrol HUD [Saniro]
+Source   : https://runeforge.dev/mods/daefaaa9-3e24-4a13-84bb-5c0813a893e5
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/cinnamorrol-hud-saniro_3.0.0/cinnamorrol-hud-saniro_3.0.0.fantome

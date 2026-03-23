@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : led-by-ancient-light-bgm_15.23.0.fantome
+Mod      : Led by Ancient Light BGM
+Source   : https://runeforge.dev/mods/2f5fb737-2835-431a-accd-d6cdc85b8729
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/led-by-ancient-light-bgm_15.23.0/led-by-ancient-light-bgm_15.23.0.fantome

@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : black-and-white-rift_1.0.0.fantome
+Mod      : Black and White Rift
+Source   : https://runeforge.dev/mods/7048bf67-4f27-40d0-b12e-a0ceb66da2d8
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/black-and-white-rift_1.0.0/black-and-white-rift_1.0.0.fantome
