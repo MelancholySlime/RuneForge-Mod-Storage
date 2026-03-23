@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : winx-club-mission-enchantix-lux-v1-2-by-lordks-op.fantome
+Mod      : Winx Club Mission Enchantix Lux
+Source   : https://runeforge.dev/mods/36f612fc-2a18-4324-9f36-7e78494bdb30
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/winx-club-mission-enchantix-lux-v1-2-by-lordks-op/winx-club-mission-enchantix-lux-v1-2-by-lordks-op.fantome
