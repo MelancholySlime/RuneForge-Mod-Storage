@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : zygarde-galio-v2.fantome
+Mod      : Zygarde Galio
+Source   : https://runeforge.dev/mods/1423376a-f04a-4285-bc81-70230c8417bb
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/zygarde-galio-v2/zygarde-galio-v2.fantome

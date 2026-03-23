@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : haru-urara-fizz-from-uma-musume_1.0.0.fantome
+Mod      : Haru Urara Fizz from Uma Musume
+Source   : https://runeforge.dev/mods/dc331e88-e0eb-43bf-8705-d2a809dd8b9c
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/haru-urara-fizz-from-uma-musume_1.0.0/haru-urara-fizz-from-uma-musume_1.0.0.fantome
