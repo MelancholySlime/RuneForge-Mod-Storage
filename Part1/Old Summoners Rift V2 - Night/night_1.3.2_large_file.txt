@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : night_1.3.2.fantome
+Mod      : Old Summoners Rift V2 - Night
+Source   : https://runeforge.dev/mods/fc58ad70-94db-4406-b9c4-36b6d997273b
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/night_1.3.2/night_1.3.2.fantome

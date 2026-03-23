@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : old-summoners-rift-v2-night-by-the-killerey.fantome
+Mod      : Old Summoners Rift V2 - Night
+Source   : https://runeforge.dev/mods/fc58ad70-94db-4406-b9c4-36b6d997273b
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/old-summoners-rift-v2-night-by-the-killerey/old-summoners-rift-v2-night-by-the-killerey.fantome

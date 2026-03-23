@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : beach_1.3.2.fantome
+Mod      : Old Summoners Rift V2 - Beach
+Source   : https://runeforge.dev/mods/3dc81aa0-cbdb-4660-b62a-8ce8337f3eb4
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/beach_1.3.2/beach_1.3.2.fantome

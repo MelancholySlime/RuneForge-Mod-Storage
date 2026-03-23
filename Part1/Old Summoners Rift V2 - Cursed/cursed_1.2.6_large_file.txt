@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : cursed_1.2.6.fantome
+Mod      : Old Summoners Rift V2 - Cursed
+Source   : https://runeforge.dev/mods/d28c3912-989c-43d0-82c6-a5c19b43e723
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/cursed_1.2.6/cursed_1.2.6.fantome

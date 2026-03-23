@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : old-rift-of-the-unbound-by-the-killerey.fantome
+Mod      : Old Summoners Rift V2 - Unbound
+Source   : https://runeforge.dev/mods/e6174a41-7213-47e2-b124-6409cfc8383e
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/old-rift-of-the-unbound-by-the-killerey/old-rift-of-the-unbound-by-the-killerey.fantome

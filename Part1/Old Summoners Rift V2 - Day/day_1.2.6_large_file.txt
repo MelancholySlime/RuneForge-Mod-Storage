@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : day_1.2.6.fantome
+Mod      : Old Summoners Rift V2 - Day
+Source   : https://runeforge.dev/mods/3996c181-23dc-4644-bcd0-a916f882db8b
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/day_1.2.6/day_1.2.6.fantome

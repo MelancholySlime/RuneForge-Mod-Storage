@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : shadow-done.fantome
+Mod      : Cid Kagenou - Yasuo
+Source   : https://runeforge.dev/mods/b871a69e-5eb2-4472-a8d4-9bd9d92f6475
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/shadow-done/shadow-done.fantome

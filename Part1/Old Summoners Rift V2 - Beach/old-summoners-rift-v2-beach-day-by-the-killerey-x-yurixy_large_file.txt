@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : old-summoners-rift-v2-beach-day-by-the-killerey-x-yurixy.fantome
+Mod      : Old Summoners Rift V2 - Beach
+Source   : https://runeforge.dev/mods/3dc81aa0-cbdb-4660-b62a-8ce8337f3eb4
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/old-summoners-rift-v2-beach-day-by-the-killerey-x-yurixy/old-summoners-rift-v2-beach-day-by-the-killerey-x-yurixy.fantome

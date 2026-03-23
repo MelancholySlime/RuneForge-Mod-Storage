@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : old-summoners-rift-v2-cursed-rift-night-version-by-the-killerey.fantome
+Mod      : Old Summoners Rift V2 - Cursed
+Source   : https://runeforge.dev/mods/d28c3912-989c-43d0-82c6-a5c19b43e723
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/old-summoners-rift-v2-cursed-rift-night-version-by-the-killerey/old-summoners-rift-v2-cursed-rift-night-version-by-the-killerey.fantome

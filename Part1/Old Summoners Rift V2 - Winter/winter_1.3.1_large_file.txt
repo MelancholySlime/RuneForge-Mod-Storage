@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : winter_1.3.1.fantome
+Mod      : Old Summoners Rift V2 - Winter
+Source   : https://runeforge.dev/mods/3377b940-375f-434f-beb0-5c24a2bf0903
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/winter_1.3.1/winter_1.3.1.fantome

@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : unbound_1.3.7.fantome
+Mod      : Old Summoners Rift V2 - Unbound
+Source   : https://runeforge.dev/mods/e6174a41-7213-47e2-b124-6409cfc8383e
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/unbound_1.3.7/unbound_1.3.7.fantome
