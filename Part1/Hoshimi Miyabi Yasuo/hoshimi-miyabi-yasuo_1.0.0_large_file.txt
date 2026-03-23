@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : hoshimi-miyabi-yasuo_1.0.0.fantome
+Mod      : Hoshimi Miyabi Yasuo
+Source   : https://runeforge.dev/mods/193a6ae3-af69-451d-85b1-8b45bc3ca856
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/hoshimi-miyabi-yasuo_1.0.0/hoshimi-miyabi-yasuo_1.0.0.fantome

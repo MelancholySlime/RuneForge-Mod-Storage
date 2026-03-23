@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : winter-rift-2025-night_1.2.1.fantome
+Mod      : Winter Rift 2025 - Season 5
+Source   : https://runeforge.dev/mods/0bb4438f-2b88-4298-88d4-f7ec6dbd284f
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/winter-rift-2025-night_1.2.1/winter-rift-2025-night_1.2.1.fantome
