@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : challengernidsfx-livevo.fantome
+Mod      : Challenger Nidalee Custom SFX
+Source   : https://runeforge.dev/mods/5474569c-9eaa-4012-9b0b-2a972a2cd5e9
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/challengernidsfx-livevo/challengernidsfx-livevo.fantome

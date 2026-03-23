@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : vegeta-sion-en-us-auto-v1-0-by-sirdy.fantome
+Mod      : Sion Vegeta Dragon Ball Super
+Source   : https://runeforge.dev/mods/60b178a3-0cad-42a9-9ff0-587035befb8b
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/vegeta-sion-en-us-auto-v1-0-by-sirdy/vegeta-sion-en-us-auto-v1-0-by-sirdy.fantome
