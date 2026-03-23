@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : wispon-jinx_1.1.0.fantome
+Mod      : Wispon Jinx
+Source   : https://runeforge.dev/mods/25e25199-b93b-4863-a785-45aad342a0b6
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/wispon-jinx_1.1.0/wispon-jinx_1.1.0.fantome

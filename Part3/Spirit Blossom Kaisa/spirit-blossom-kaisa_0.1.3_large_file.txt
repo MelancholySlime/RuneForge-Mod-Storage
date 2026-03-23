@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : spirit-blossom-kaisa_0.1.3.fantome
+Mod      : Spirit Blossom Kaisa
+Source   : https://runeforge.dev/mods/959ab4f5-ff06-4301-a754-1e84a4abdde9
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/spirit-blossom-kaisa_0.1.3/spirit-blossom-kaisa_0.1.3.fantome

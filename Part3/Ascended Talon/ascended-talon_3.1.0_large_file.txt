@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : ascended-talon_3.1.0.fantome
+Mod      : Ascended Talon
+Source   : https://runeforge.dev/mods/3a2054cd-968c-471f-a48b-851a2eb8588a
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/ascended-talon_3.1.0/ascended-talon_3.1.0.fantome

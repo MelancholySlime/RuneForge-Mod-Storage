@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : hextech-chests-rift_1.0.0.fantome
+Mod      : Hextech Chests Rift
+Source   : https://runeforge.dev/mods/98fe1737-3164-4c25-b666-c9705095e4b3
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/hextech-chests-rift_1.0.0/hextech-chests-rift_1.0.0.fantome
