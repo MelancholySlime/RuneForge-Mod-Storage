@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : madara-zed_1.0.0.fantome
+Mod      : Madara Zed
+Source   : https://runeforge.dev/mods/5e7e9cb3-1779-45ea-926b-8bed90e811e6
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/madara-zed_1.0.0/madara-zed_1.0.0.fantome
