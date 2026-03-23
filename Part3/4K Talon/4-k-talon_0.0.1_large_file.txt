@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : 4-k-talon_0.0.1.fantome
+Mod      : 4K Talon
+Source   : https://runeforge.dev/mods/5f6006ae-4ebf-4dab-bde4-bdfc5aff1ce7
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/4-k-talon_0.0.1/4-k-talon_0.0.1.fantome

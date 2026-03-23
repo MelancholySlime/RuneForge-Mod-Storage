@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : separatist-jhin_1.3.1.fantome
+Mod      : Separatist Jhin
+Source   : https://runeforge.dev/mods/84e2fa01-5e02-4c5f-b77c-62d19860d52f
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/separatist-jhin_1.3.1/separatist-jhin_1.3.1.fantome

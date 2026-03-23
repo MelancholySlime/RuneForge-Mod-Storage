@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : kench-west_2.0.0.fantome
+Mod      : Kench West
+Source   : https://runeforge.dev/mods/2c85ec9a-b121-435b-ba87-689ec94b750b
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/kench-west_2.0.0/kench-west_2.0.0.fantome
