@@ -2,13 +2,13 @@
 
 <div align="center">
 
-![RuneForge ModKeeper Banner](https://raw.githubusercontent.com/MelancholySlime/RuneForge-ModKeeper/main/banner.png)
+![RuneForge ModKeeper Banner](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/banner.png)
 
 #  RuneForge ModKeeper
 
-[![Auto Scraper](https://github.com/MelancholySlime/RuneForge-ModKeeper/actions/workflows/runeforge_scraper.yml/badge.svg)](https://github.com/MelancholySlime/RuneForge-ModKeeper/actions/workflows/runeforge_scraper.yml)
-[![Last Commit](https://img.shields.io/github/last-commit/MelancholySlime/RuneForge-ModKeeper?color=7c3aed&label=Last%20Update&logo=github)](https://github.com/MelancholySlime/RuneForge-ModKeeper/commits/main)
-[![Repo Size](https://img.shields.io/github/repo-size/MelancholySlime/RuneForge-ModKeeper?color=db2777&label=Archive%20Size&logo=databricks)](https://github.com/MelancholySlime/RuneForge-ModKeeper)
+[![Auto Scraper](https://github.com/MelancholySlime/RuneForge-Mod-Storage/actions/workflows/runeforge_scraper.yml/badge.svg)](https://github.com/MelancholySlime/RuneForge-Mod-Storage/actions/workflows/runeforge_scraper.yml)
+[![Last Commit](https://img.shields.io/github/last-commit/MelancholySlime/RuneForge-Mod-Storage?color=7c3aed&label=Last%20Update&logo=github)](https://github.com/MelancholySlime/RuneForge-Mod-Storage/commits/main)
+[![Repo Size](https://img.shields.io/github/repo-size/MelancholySlime/RuneForge-Mod-Storage?color=db2777&label=Archive%20Size&logo=databricks)](https://github.com/MelancholySlime/RuneForge-Mod-Storage)
 [![Source](https://img.shields.io/badge/Source-Runeforge.dev-f59e0b?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsOCA0IDgtNE0yIDEybDggNCA4LTQiLz48L3N2Zz4=)](https://runeforge.dev)
 [![League of Legends](https://img.shields.io/badge/Game-League%20of%20Legends-C89B3C?logo=riot-games)](https://leagueoflegends.com)
 
@@ -36,7 +36,7 @@ No mod goes forgotten. No version gets left behind.
 Files are organized by `Part` directories, each holding up to **~990 mod folders**. When a Part fills up, a new one is automatically created.
 
 ```
-📦 RuneForge-ModKeeper/
+📦 RuneForge-Mod-Storage/
 ├── 📁 Part1/
 │   ├── 📂 Demon Yasuo LOLSKINARCHIVE/
 │   │   └── demon-yasuo-lolskinarchive-v2.fantome
@@ -47,7 +47,7 @@ Files are organized by `Part` directories, each holding up to **~990 mod folders
 └── 📁 PartN/ ...
 ```
 
-> Files larger than **50 MB** are uploaded directly to [GitHub Releases](https://github.com/MelancholySlime/RuneForge-ModKeeper/releases) instead of commits.
+> Files larger than **50 MB** are uploaded directly to [GitHub Releases](https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases) instead of commits.
 
 ---
 
@@ -88,7 +88,7 @@ Runeforge.dev ──────► Scraper Bot ──────► GitHub Rep
 |------|-------------|
 | 🌐 [Runeforge.dev](https://runeforge.dev) | Original mod hosting platform |
 | 🛠️ [cslol-manager](https://github.com/LeagueToolkit/cslol-manager) | Tool to apply `.fantome` mods in-game |
-| 📋 [Action Logs](https://github.com/MelancholySlime/RuneForge-ModKeeper/actions) | Live scraper run history |
+| 📋 [Action Logs](https://github.com/MelancholySlime/RuneForge-Mod-Storage/actions) | Live scraper run history |
 
 ---
 
@@ -96,7 +96,7 @@ Runeforge.dev ──────► Scraper Bot ──────► GitHub Rep
 
 This archive was built with love and deep respect for the creative community. We do **not** claim ownership of any mod here — all credit belongs to the original creators on Runeforge.
 
-**If you are a mod author and wish to have your work removed**, please open an [Issue](https://github.com/MelancholySlime/RuneForge-ModKeeper/issues) with the subject `[Takedown Request]`. Your request will be honored promptly and with care. 🌷
+**If you are a mod author and wish to have your work removed**, please open an [Issue](https://github.com/MelancholySlime/RuneForge-Mod-Storage/issues) with the subject `[Takedown Request]`. Your request will be honored promptly and with care. 🌷
 
 ---
 
