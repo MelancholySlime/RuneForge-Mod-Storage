@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : hololive-ouro-kronii-rakan_1.1.0.fantome
+Mod      : Hololive Ouro Kronii Rakan
+Source   : https://runeforge.dev/mods/3e35c507-998c-4053-a7cf-e1e767596b02
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/hololive-ouro-kronii-rakan_1.1.0/hololive-ouro-kronii-rakan_1.1.0.fantome
