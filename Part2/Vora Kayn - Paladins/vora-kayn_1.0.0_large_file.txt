@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : vora-kayn_1.0.0.fantome
+Mod      : Vora Kayn - Paladins
+Source   : https://runeforge.dev/mods/4f446188-ec2a-46df-a54b-70ce1b0d6161
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/vora-kayn_1.0.0/vora-kayn_1.0.0.fantome

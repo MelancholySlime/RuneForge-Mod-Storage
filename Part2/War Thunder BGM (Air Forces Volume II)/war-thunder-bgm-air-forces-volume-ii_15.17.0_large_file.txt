@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : war-thunder-bgm-air-forces-volume-ii_15.17.0.fantome
+Mod      : War Thunder BGM (Air Forces Volume II)
+Source   : https://runeforge.dev/mods/e6262136-669a-4094-b5a3-adbfb797ff6d
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/war-thunder-bgm-air-forces-volume-ii_15.17.0/war-thunder-bgm-air-forces-volume-ii_15.17.0.fantome
