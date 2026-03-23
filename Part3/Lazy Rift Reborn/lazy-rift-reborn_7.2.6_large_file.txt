@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : lazy-rift-reborn_7.2.6.fantome
+Mod      : Lazy Rift Reborn
+Source   : https://runeforge.dev/mods/8060563b-c460-4d44-8559-5787068bca35
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/lazy-rift-reborn_7.2.6/lazy-rift-reborn_7.2.6.fantome

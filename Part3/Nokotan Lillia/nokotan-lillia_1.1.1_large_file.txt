@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : nokotan-lillia_1.1.1.fantome
+Mod      : Nokotan Lillia
+Source   : https://runeforge.dev/mods/70b3c78b-5f76-4c9c-b0fa-40fc34c9601a
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/nokotan-lillia_1.1.1/nokotan-lillia_1.1.1.fantome

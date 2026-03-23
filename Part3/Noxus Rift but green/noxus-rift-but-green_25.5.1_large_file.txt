@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : noxus-rift-but-green_25.5.1.fantome
+Mod      : Noxus Rift but green
+Source   : https://runeforge.dev/mods/1bee2d53-ad22-4bf1-bfc7-906ef71d297d
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/noxus-rift-but-green_25.5.1/noxus-rift-but-green_25.5.1.fantome

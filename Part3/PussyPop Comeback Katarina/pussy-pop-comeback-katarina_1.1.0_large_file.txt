@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : pussy-pop-comeback-katarina_1.1.0.fantome
+Mod      : PussyPop Comeback Katarina
+Source   : https://runeforge.dev/mods/6f8f0735-8737-427f-81b8-078f9f75020e
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/pussy-pop-comeback-katarina_1.1.0/pussy-pop-comeback-katarina_1.1.0.fantome

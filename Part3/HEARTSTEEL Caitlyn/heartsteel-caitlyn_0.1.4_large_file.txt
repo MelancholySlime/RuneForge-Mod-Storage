@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : heartsteel-caitlyn_0.1.4.fantome
+Mod      : HEARTSTEEL Caitlyn
+Source   : https://runeforge.dev/mods/e14d326b-3f96-4f23-9198-8e3bba4d5783
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/heartsteel-caitlyn_0.1.4/heartsteel-caitlyn_0.1.4.fantome

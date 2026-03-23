@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : armstrong-mundo_1.0.0.fantome
+Mod      : Armstrong Mundo
+Source   : https://runeforge.dev/mods/0d73d240-3c79-414c-bfb1-238d26729d32
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/armstrong-mundo_1.0.0/armstrong-mundo_1.0.0.fantome

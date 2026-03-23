@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : spirit-blossom-rift-25_2025.1.7.fantome
+Mod      : Spirit Blossom Rift 25'
+Source   : https://runeforge.dev/mods/1388a56b-cf82-45a5-8a15-93316b5079e5
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/spirit-blossom-rift-25_2025.1.7/spirit-blossom-rift-25_2025.1.7.fantome
