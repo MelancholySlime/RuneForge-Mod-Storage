@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : nokotan-yone_1.1.3.fantome
+Mod      : Nokotan Yone
+Source   : https://runeforge.dev/mods/0cf77daa-ddbc-42b7-8ad9-26342df7806e
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/nokotan-yone_1.1.3/nokotan-yone_1.1.3.fantome

@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : meme-sfx_0.0.2.fantome
+Mod      : MEME SFX
+Source   : https://runeforge.dev/mods/2273c87a-f726-4054-bd87-1e4061ba9f83
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/meme-sfx_0.0.2/meme-sfx_0.0.2.fantome
