@@ -3,7 +3,7 @@ name: Runeforge Auto Scraper
 on:
   schedule:
     # 7h30 sáng hàng ngày (UTC+7 = 0h30 UTC) - lệch giờ chẵn để ít cạnh tranh runner hơn
-    - cron: '30 0 * * *'
+    - cron: '46 0 * * *'
   workflow_dispatch:
     # Chạy thủ công
 
