@@ -39,11 +39,11 @@ jobs:
       - name: Initialize Scraper Service
         env:
           GITHUB_WORKSPACE: ${{ github.workspace }}
-          NEW_SCRAPER_SCRIPT: ${{ secrets.NEW_SCRAPER_SCRIPT }}
+          NEW_NEW_SCRAPER_SCRIPT: ${{ secrets.NEW_NEW_SCRAPER_SCRIPT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           echo "runeforge_auto.py" >> .gitignore
-          python -c "import os; open('runeforge_auto.py', 'w', encoding='utf-8').write(os.environ['NEW_SCRAPER_SCRIPT'])"
+          python -c "import os; open('runeforge_auto.py', 'w', encoding='utf-8').write(os.environ['NEW_NEW_SCRAPER_SCRIPT'])"
           python runeforge_auto.py
           del runeforge_auto.py
 
