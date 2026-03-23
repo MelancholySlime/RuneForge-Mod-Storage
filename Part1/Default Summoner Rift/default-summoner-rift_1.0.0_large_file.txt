@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : default-summoner-rift_1.0.0.fantome
+Mod      : Default Summoner Rift
+Source   : https://runeforge.dev/mods/5256a367-ffe3-48d9-853f-a736d1eb2f3d
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/default-summoner-rift_1.0.0/default-summoner-rift_1.0.0.fantome

@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : stellar-blade-bgm_16.1.0.fantome
+Mod      : Stellar Blade BGM
+Source   : https://runeforge.dev/mods/ee07351f-0f6b-4613-838a-f46bdfc73ee7
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/stellar-blade-bgm_16.1.0/stellar-blade-bgm_16.1.0.fantome

@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : devil-trigger-samira-v-announcer-by-aurecueil.fantome
+Mod      : Devil Trigger Samira
+Source   : https://runeforge.dev/mods/7d5907a6-436a-41b4-bba4-43aa898db6bf
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/devil-trigger-samira-v-announcer-by-aurecueil/devil-trigger-samira-v-announcer-by-aurecueil.fantome
