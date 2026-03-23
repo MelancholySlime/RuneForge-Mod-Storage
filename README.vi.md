@@ -6,13 +6,13 @@
 
 <div align="center">
 
-![RuneForge ModKeeper Banner](https://raw.githubusercontent.com/MelancholySlime/RuneForge-ModKeeper/main/banner.png)
+![RuneForge ModKeeper Banner](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/banner.png)
 
-#  RuneForge ModKeeper
+#  RuneForge Mod Storage
 
-[![Auto Scraper](https://github.com/MelancholySlime/RuneForge-ModKeeper/actions/workflows/runeforge_scraper.yml/badge.svg)](https://github.com/MelancholySlime/RuneForge-ModKeeper/actions/workflows/runeforge_scraper.yml)
-[![Last Commit](https://img.shields.io/github/last-commit/MelancholySlime/RuneForge-ModKeeper?color=7c3aed&label=Cập%20nhật%20lần%20cuối&logo=github)](https://github.com/MelancholySlime/RuneForge-ModKeeper/commits/main)
-[![Repo Size](https://img.shields.io/github/repo-size/MelancholySlime/RuneForge-ModKeeper?color=db2777&label=Dung%20lượng%20kho&logo=databricks)](https://github.com/MelancholySlime/RuneForge-ModKeeper)
+[![Auto Scraper](https://github.com/MelancholySlime/RuneForge-Mod-Storage/actions/workflows/runeforge_scraper.yml/badge.svg)](https://github.com/MelancholySlime/RuneForge-Mod-Storage/actions/workflows/runeforge_scraper.yml)
+[![Last Commit](https://img.shields.io/github/last-commit/MelancholySlime/RuneForge-Mod-Storage?color=7c3aed&label=Cập%20nhật%20lần%20cuối&logo=github)](https://github.com/MelancholySlime/RuneForge-Mod-Storage/commits/main)
+[![Repo Size](https://img.shields.io/github/repo-size/MelancholySlime/RuneForge-Mod-Storage?color=db2777&label=Dung%20lượng%20kho&logo=databricks)](https://github.com/MelancholySlime/RuneForge-Mod-Storage)
 [![Source](https://img.shields.io/badge/Nguồn-Runeforge.dev-f59e0b?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsOCA0IDgtNE0yIDEybDggNCA4LTQiLz48L3N2Zz4=)](https://runeforge.dev)
 [![League of Legends](https://img.shields.io/badge/Game-League%20of%20Legends-C89B3C?logo=riot-games)](https://leagueoflegends.com)
 
@@ -35,7 +35,7 @@ Không một Mod nào bị lãng quên. Không một phiên bản nào bị bỏ
 Các tệp được tổ chức theo thư mục `Part`, mỗi thư mục chứa tối đa **~990 thư mục mod**. Khi một Part đầy, hệ thống tự động mở Part mới.
 
 ```
-📦 RuneForge-ModKeeper/
+📦 RuneForge-Mod-Storage/
 ├── 📁 Part1/
 │   ├── 📂 Demon Yasuo LOLSKINARCHIVE/
 │   │   └── demon-yasuo-lolskinarchive-v2.fantome
@@ -46,7 +46,7 @@ Các tệp được tổ chức theo thư mục `Part`, mỗi thư mục chứa 
 └── 📁 PartN/ ...
 ```
 
-> File có dung lượng **trên 50 MB** sẽ được tải lên thẳng [GitHub Releases](https://github.com/MelancholySlime/RuneForge-ModKeeper/releases) thay vì commit thông thường.
+> File có dung lượng **trên 50 MB** sẽ được tải lên thẳng [GitHub Releases](https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases) thay vì commit thông thường.
 
 ---
 
@@ -87,7 +87,7 @@ Runeforge.dev ──────► Bot Cào Dữ Liệu ──────► G
 |----------|-------|
 | 🌐 [Runeforge.dev](https://runeforge.dev) | Nền tảng đăng tải mod gốc |
 | 🛠️ [cslol-manager](https://github.com/LeagueToolkit/cslol-manager) | Tool để áp dụng file `.fantome` trong game |
-| 📋 [Lịch sử chạy](https://github.com/MelancholySlime/RuneForge-ModKeeper/actions) | Nhật ký hoạt động của bot |
+| 📋 [Lịch sử chạy](https://github.com/MelancholySlime/RuneForge-Mod-Storage/actions) | Nhật ký hoạt động của bot |
 
 ---
 
@@ -95,7 +95,7 @@ Runeforge.dev ──────► Bot Cào Dữ Liệu ──────► G
 
 Kho lưu trữ này được xây dựng với tất cả tình yêu và sự tôn trọng sâu sắc dành cho cộng đồng sáng tạo. Chúng tôi **không** có bất kỳ quyền sở hữu nào đối với các mod tại đây — toàn bộ công sức và vinh dự thuộc về những tác giả gốc trên Runeforge.
 
-**Nếu bạn là tác giả và muốn gỡ bỏ tác phẩm của mình**, vui lòng mở một [Issue](https://github.com/MelancholySlime/RuneForge-ModKeeper/issues) với tiêu đề `[Takedown Request]`. Yêu cầu của bạn sẽ được xử lý ngay lập tức và trân trọng. 🌷
+**Nếu bạn là tác giả và muốn gỡ bỏ tác phẩm của mình**, vui lòng mở một [Issue](https://github.com/MelancholySlime/RuneForge-Mod-Storage/issues) với tiêu đề `[Takedown Request]`. Yêu cầu của bạn sẽ được xử lý ngay lập tức và trân trọng. 🌷
 
 ---
 
