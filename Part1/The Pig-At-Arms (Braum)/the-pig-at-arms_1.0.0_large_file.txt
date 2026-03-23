@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : the-pig-at-arms_1.0.0.fantome
+Mod      : The Pig-At-Arms (Braum)
+Source   : https://runeforge.dev/mods/11b1283b-e81b-4901-bb5e-c1b8221f0f33
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/the-pig-at-arms_1.0.0/the-pig-at-arms_1.0.0.fantome
