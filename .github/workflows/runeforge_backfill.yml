@@ -1,0 +1,59 @@
+name: Runeforge Backfill Index
+
+# Chạy THỦ CÔNG một lần để đồng bộ _runeforge_files.json
+# với toàn bộ files đã tồn tại trên repo (kể cả trước khi có hệ thống JSON)
+
+on:
+  schedule:
+    # 9h30 sáng hàng ngày (UTC+7 = 2h30 UTC) — sau scraper 2 tiếng
+    - cron: '30 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          # Không dùng sparse-checkout để lấy được cả script backfill
+          sparse-checkout: |
+            .github
+            _runeforge_files.json
+          sparse-checkout-cone-mode: false
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Write Backfill Script
+        env:
+          NEW_BACKFILL_SCRIPT: ${{ secrets.NEW_BACKFILL_SCRIPT }}
+        run: |
+          python -c "import os; open('backfill_index.py', 'w', encoding='utf-8').write(os.environ['NEW_BACKFILL_SCRIPT'])"
+
+      - name: Run Backfill
+        id: backfill
+        env:
+          GITHUB_WORKSPACE: ${{ github.workspace }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python backfill_index.py
+
+      - name: Push JSON Index
+        if: steps.backfill.outputs.CHANGED == 'true'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config advice.updateSparsePath false
+          git add -f _runeforge_files.json
+          git commit -m "🔄 Backfill: Cập nhật _runeforge_files.json (part_counts + files)"
+          git pull --rebase origin main || true
+          git push origin main
