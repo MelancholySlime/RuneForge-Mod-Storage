@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : spanish-latam-announcer_25.1.2.fantome
+Mod      : Spanish LATAM Announcer
+Source   : https://runeforge.dev/mods/16180152-0176-4b5a-90e9-15d681167b25
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/spanish-latam-announcer_25.1.2/spanish-latam-announcer_25.1.2.fantome

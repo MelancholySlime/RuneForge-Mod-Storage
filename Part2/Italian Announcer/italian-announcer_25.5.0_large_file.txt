@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : italian-announcer_25.5.0.fantome
+Mod      : Italian Announcer
+Source   : https://runeforge.dev/mods/8aba60db-1106-4b45-ae7a-b36819cc1ea7
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/italian-announcer_25.5.0/italian-announcer_25.5.0.fantome

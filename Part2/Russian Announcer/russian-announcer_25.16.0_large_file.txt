@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : russian-announcer_25.16.0.fantome
+Mod      : Russian Announcer
+Source   : https://runeforge.dev/mods/da450d42-f5ac-45ee-b4b5-ba02b0e081b4
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/russian-announcer_25.16.0/russian-announcer_25.16.0.fantome

@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : french-announcer_25.8.0.fantome
+Mod      : French Announcer
+Source   : https://runeforge.dev/mods/26618d11-7ae5-4e99-9a6c-a7aaa033051c
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/french-announcer_25.8.0/french-announcer_25.8.0.fantome

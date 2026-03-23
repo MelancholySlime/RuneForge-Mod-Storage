@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : german-announcer_25.8.0.fantome
+Mod      : German Announcer
+Source   : https://runeforge.dev/mods/bf0fae1f-5517-44ad-a76a-590d1a09ac61
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/german-announcer_25.8.0/german-announcer_25.8.0.fantome

@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : polish-announcer_25.8.0.fantome
+Mod      : Polish Announcer
+Source   : https://runeforge.dev/mods/41d15068-dc88-4b1f-ac55-1f276e9bb6d0
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/polish-announcer_25.8.0/polish-announcer_25.8.0.fantome

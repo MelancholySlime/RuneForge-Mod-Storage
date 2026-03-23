@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : turkish-announcer_25.1.2.fantome
+Mod      : Turkish Announcer
+Source   : https://runeforge.dev/mods/84454a0f-8526-4259-a1ec-ae86c526e6b8
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/turkish-announcer_25.1.2/turkish-announcer_25.1.2.fantome

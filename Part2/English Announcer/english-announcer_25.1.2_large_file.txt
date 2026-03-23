@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : english-announcer_25.1.2.fantome
+Mod      : English Announcer
+Source   : https://runeforge.dev/mods/d89cd941-0022-4f64-a4fe-55440c2fedcc
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/english-announcer_25.1.2/english-announcer_25.1.2.fantome

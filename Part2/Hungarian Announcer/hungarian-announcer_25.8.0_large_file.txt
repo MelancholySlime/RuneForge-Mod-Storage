@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : hungarian-announcer_25.8.0.fantome
+Mod      : Hungarian Announcer
+Source   : https://runeforge.dev/mods/96e35fdc-b3a9-4d7b-bde3-5c0a2f90256f
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/hungarian-announcer_25.8.0/hungarian-announcer_25.8.0.fantome

@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : arabic-announcer_25.16.0.fantome
+Mod      : Arabic Announcer
+Source   : https://runeforge.dev/mods/26c953c2-4dc7-4e0a-b95e-a0db42c6429c
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/arabic-announcer_25.16.0/arabic-announcer_25.16.0.fantome

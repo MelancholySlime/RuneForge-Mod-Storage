@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : portuguese-announcer_25.13.0.fantome
+Mod      : Portuguese Announcer
+Source   : https://runeforge.dev/mods/9c24414a-af5d-4e17-a0d6-d79f47677b7a
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/portuguese-announcer_25.13.0/portuguese-announcer_25.13.0.fantome

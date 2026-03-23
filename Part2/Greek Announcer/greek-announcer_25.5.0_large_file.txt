@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : greek-announcer_25.5.0.fantome
+Mod      : Greek Announcer
+Source   : https://runeforge.dev/mods/b423d61b-46af-4a36-bbc7-8730fad3fa40
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/greek-announcer_25.5.0/greek-announcer_25.5.0.fantome

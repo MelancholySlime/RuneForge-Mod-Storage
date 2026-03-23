@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : korean-announcer_25.13.0.fantome
+Mod      : Korean Announcer
+Source   : https://runeforge.dev/mods/a5300eba-34e9-4b53-b080-b5444e60d4a2
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/korean-announcer_25.13.0/korean-announcer_25.13.0.fantome

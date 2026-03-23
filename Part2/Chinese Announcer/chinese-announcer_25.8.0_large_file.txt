@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : chinese-announcer_25.8.0.fantome
+Mod      : Chinese Announcer
+Source   : https://runeforge.dev/mods/b8b61286-763d-4577-ad13-8eba1b3853c8
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/chinese-announcer_25.8.0/chinese-announcer_25.8.0.fantome
