@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : karma-meme-sound-mod_1.0.1.fantome
+Mod      : Karma meme sound mod
+Source   : https://runeforge.dev/mods/d0368d2d-65a9-4ee4-acdc-cae99f11ed3c
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/karma-meme-sound-mod_1.0.1/karma-meme-sound-mod_1.0.1.fantome
