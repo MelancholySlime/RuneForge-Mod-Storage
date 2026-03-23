@@ -4,7 +4,7 @@
 
 ![RuneForge ModKeeper Banner](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/banner.png)
 
-#  RuneForge ModKeeper
+#  RuneForge Mod-Storage
 
 [![Auto Scraper](https://github.com/MelancholySlime/RuneForge-Mod-Storage/actions/workflows/runeforge_scraper.yml/badge.svg)](https://github.com/MelancholySlime/RuneForge-Mod-Storage/actions/workflows/runeforge_scraper.yml)
 [![Last Commit](https://img.shields.io/github/last-commit/MelancholySlime/RuneForge-Mod-Storage?color=7c3aed&label=Last%20Update&logo=github)](https://github.com/MelancholySlime/RuneForge-Mod-Storage/commits/main)
