@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : gingerbread-singed_1.0.0.fantome
+Mod      : Gingerbread Singed
+Source   : https://runeforge.dev/mods/a80dbd1b-9b6e-4911-9e70-1653049a28d6
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/gingerbread-singed_1.0.0/gingerbread-singed_1.0.0.fantome
