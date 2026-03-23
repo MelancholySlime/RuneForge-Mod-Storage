@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : yasuo-kenshin-himura_1.0.0.fantome
+Mod      : Yasuo Kenshin Himura
+Source   : https://runeforge.dev/mods/4e9c07f9-c2e9-47ef-8775-e9c9923f79e0
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/yasuo-kenshin-himura_1.0.0/yasuo-kenshin-himura_1.0.0.fantome

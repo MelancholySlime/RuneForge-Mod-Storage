@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : japanese-announcer_15.19.0.fantome
+Mod      : Japanese Announcer
+Source   : https://runeforge.dev/mods/1d2eb1ed-e011-45ba-a779-5106b06b6512
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/japanese-announcer_15.19.0/japanese-announcer_15.19.0.fantome

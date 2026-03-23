@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : 2-b-katarina-from-nier-automata_1.0.0.fantome
+Mod      : 2B Katarina from Nier Automata
+Source   : https://runeforge.dev/mods/2f6c6e8d-423b-4dc1-9e1a-42253be8ecf2
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/2-b-katarina-from-nier-automata_1.0.0/2-b-katarina-from-nier-automata_1.0.0.fantome

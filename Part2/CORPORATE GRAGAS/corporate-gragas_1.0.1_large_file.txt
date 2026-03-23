@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : corporate-gragas_1.0.1.fantome
+Mod      : CORPORATE GRAGAS
+Source   : https://runeforge.dev/mods/f9d21bff-c8dd-4973-b252-3bda597a728c
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/corporate-gragas_1.0.1/corporate-gragas_1.0.1.fantome
