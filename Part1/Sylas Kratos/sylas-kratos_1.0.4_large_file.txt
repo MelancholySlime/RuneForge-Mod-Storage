@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : sylas-kratos_1.0.4.fantome
+Mod      : Sylas Kratos
+Source   : https://runeforge.dev/mods/8a577e75-1423-46c5-869e-0720a876b8eb
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/sylas-kratos_1.0.4/sylas-kratos_1.0.4.fantome

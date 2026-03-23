@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : project-twitch_2.0.0.fantome
+Mod      : Project Twitch
+Source   : https://runeforge.dev/mods/50df55bd-659c-453f-ba26-b705db4ab564
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/project-twitch_2.0.0/project-twitch_2.0.0.fantome

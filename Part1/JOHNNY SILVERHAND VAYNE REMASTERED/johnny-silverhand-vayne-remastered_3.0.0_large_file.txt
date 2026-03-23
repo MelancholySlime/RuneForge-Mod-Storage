@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : johnny-silverhand-vayne-remastered_3.0.0.fantome
+Mod      : JOHNNY SILVERHAND VAYNE REMASTERED
+Source   : https://runeforge.dev/mods/cab18a27-75d2-4d42-9b51-38043df891fb
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/johnny-silverhand-vayne-remastered_3.0.0/johnny-silverhand-vayne-remastered_3.0.0.fantome

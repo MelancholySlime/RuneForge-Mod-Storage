@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : riven-goddess-of-light_1.0.1.fantome
+Mod      : Riven Goddess of Light
+Source   : https://runeforge.dev/mods/bb963ebe-3d1f-41be-a797-a2d1d6653b1a
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/riven-goddess-of-light_1.0.1/riven-goddess-of-light_1.0.1.fantome

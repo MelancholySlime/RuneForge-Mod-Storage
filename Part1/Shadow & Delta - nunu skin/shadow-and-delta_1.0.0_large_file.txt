@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : shadow-and-delta_1.0.0.fantome
+Mod      : Shadow & Delta - nunu skin
+Source   : https://runeforge.dev/mods/90737751-9d25-464f-b6a9-33cad2377e4e
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/shadow-and-delta_1.0.0/shadow-and-delta_1.0.0.fantome
