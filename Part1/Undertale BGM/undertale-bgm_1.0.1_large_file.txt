@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : undertale-bgm_1.0.1.fantome
+Mod      : Undertale BGM
+Source   : https://runeforge.dev/mods/f281e93b-024b-4e12-9763-93987936c9b5
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/undertale-bgm_1.0.1/undertale-bgm_1.0.1.fantome
