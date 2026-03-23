@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : hololive-tsunomaki-watame-ornn_1.0.0.fantome
+Mod      : Hololive Tsunomaki Watame Ornn
+Source   : https://runeforge.dev/mods/fe0aed5f-ec1a-4083-993d-9747732a72bc
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/hololive-tsunomaki-watame-ornn_1.0.0/hololive-tsunomaki-watame-ornn_1.0.0.fantome

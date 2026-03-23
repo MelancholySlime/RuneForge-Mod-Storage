@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : hololive-watson-amelia-ekko_1.1.0.fantome
+Mod      : Hololive Watson Amelia Ekko
+Source   : https://runeforge.dev/mods/6ae3529d-2f23-441f-9346-b28f9ae6fd2d
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/hololive-watson-amelia-ekko_1.1.0/hololive-watson-amelia-ekko_1.1.0.fantome

@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : pentakill-music-for-mordekaiser-passive_1.0.1.fantome
+Mod      : Pentakill music for Mordekaiser passive
+Source   : https://runeforge.dev/mods/776dcbca-eb68-4e33-9633-518c47975245
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/pentakill-music-for-mordekaiser-passive_1.0.1/pentakill-music-for-mordekaiser-passive_1.0.1.fantome
