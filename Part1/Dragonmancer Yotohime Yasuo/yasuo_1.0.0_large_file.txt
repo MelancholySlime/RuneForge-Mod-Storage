@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : yasuo_1.0.0.fantome
+Mod      : Dragonmancer Yotohime Yasuo
+Source   : https://runeforge.dev/mods/6ce5a702-7da4-4bd8-984e-0da1e806f4f7
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/yasuo_1.0.0/yasuo_1.0.0.fantome

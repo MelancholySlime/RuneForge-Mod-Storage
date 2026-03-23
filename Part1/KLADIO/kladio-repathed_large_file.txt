@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : kladio-repathed.fantome
+Mod      : KLADIO
+Source   : https://runeforge.dev/mods/9bf13a84-5580-474c-87e0-51771d1253dd
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/kladio-repathed/kladio-repathed.fantome
