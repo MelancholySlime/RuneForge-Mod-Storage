@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : sr-hexed-rift-v1-0-0-by-aropatnik.fantome
+Mod      : Hexed Rift
+Source   : https://runeforge.dev/mods/f927119b-940a-420f-8ca9-459c28dcb32c
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/sr-hexed-rift-v1-0-0-by-aropatnik/sr-hexed-rift-v1-0-0-by-aropatnik.fantome

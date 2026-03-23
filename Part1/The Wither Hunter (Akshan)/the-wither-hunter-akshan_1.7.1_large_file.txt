@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : the-wither-hunter-akshan_1.7.1.fantome
+Mod      : The Wither Hunter (Akshan)
+Source   : https://runeforge.dev/mods/d4225bf7-45d7-4c6f-b579-b3efdc134d36
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/the-wither-hunter-akshan_1.7.1/the-wither-hunter-akshan_1.7.1.fantome

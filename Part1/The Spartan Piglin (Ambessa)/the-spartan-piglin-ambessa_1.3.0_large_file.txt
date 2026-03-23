@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : the-spartan-piglin-ambessa_1.3.0.fantome
+Mod      : The Spartan Piglin (Ambessa)
+Source   : https://runeforge.dev/mods/ff867dee-f241-4fe3-ac2e-4098e838d1c3
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/the-spartan-piglin-ambessa_1.3.0/the-spartan-piglin-ambessa_1.3.0.fantome
