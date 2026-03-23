@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : lux-asu_2025.15.13.fantome
+Mod      : Lux ASU
+Source   : https://runeforge.dev/mods/f5b81e2a-5fa3-4590-9f3b-78296b253068
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/lux-asu_2025.15.13/lux-asu_2025.15.13.fantome
