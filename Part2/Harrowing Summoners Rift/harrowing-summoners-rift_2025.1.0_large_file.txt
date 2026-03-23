@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : harrowing-summoners-rift_2025.1.0.fantome
+Mod      : Harrowing Summoners Rift
+Source   : https://runeforge.dev/mods/7bd1ff27-8049-4c03-9b1e-7b2227b1c2ef
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/harrowing-summoners-rift_2025.1.0/harrowing-summoners-rift_2025.1.0.fantome

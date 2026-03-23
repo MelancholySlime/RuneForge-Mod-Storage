@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : anima-squad-rift-battle-for-final-city_2025.3.1.fantome
+Mod      : Anima Squad Rift Battle for Final City
+Source   : https://runeforge.dev/mods/9e14db78-ec38-43f2-b6e0-db80c193452b
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/anima-squad-rift-battle-for-final-city_2025.3.1/anima-squad-rift-battle-for-final-city_2025.3.1.fantome

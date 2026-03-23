@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : joe-higashi-yasuo_1.2.0.fantome
+Mod      : Joe Higashi (Yasuo)
+Source   : https://runeforge.dev/mods/9299cf45-9aed-484b-b8d3-0ab4c4629f41
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/joe-higashi-yasuo_1.2.0/joe-higashi-yasuo_1.2.0.fantome

@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : chibi-sona-v2_1.0.0.fantome
+Mod      : Chibi Sona v2
+Source   : https://runeforge.dev/mods/84a7ac93-4cb0-45a1-801c-f81e88a05c12
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/chibi-sona-v2_1.0.0/chibi-sona-v2_1.0.0.fantome
