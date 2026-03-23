@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : league-of-merry-legends-jolly-hats-edition-pc_1.1.0.fantome
+Mod      : League of Merry Legends Jolly Hats Edition (PC)
+Source   : https://runeforge.dev/mods/7ecd6b27-df22-45f2-8d0d-10300a0f8e2f
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/league-of-merry-legends-jolly-hats-edition-pc_1.1.0/league-of-merry-legends-jolly-hats-edition-pc_1.1.0.fantome

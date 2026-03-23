@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : glinda-seraphine_1.1.0.fantome
+Mod      : Glinda Seraphine
+Source   : https://runeforge.dev/mods/06845fd5-2a89-4d23-873a-87080aeac99c
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/glinda-seraphine_1.1.0/glinda-seraphine_1.1.0.fantome

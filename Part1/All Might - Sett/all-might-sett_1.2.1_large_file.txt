@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : all-might-sett_1.2.1.fantome
+Mod      : All Might - Sett
+Source   : https://runeforge.dev/mods/0b434865-eab4-43a4-a86a-5d1cb06ec291
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/all-might-sett_1.2.1/all-might-sett_1.2.1.fantome
