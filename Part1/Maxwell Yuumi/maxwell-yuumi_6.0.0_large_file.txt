@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : maxwell-yuumi_6.0.0.fantome
+Mod      : Maxwell Yuumi
+Source   : https://runeforge.dev/mods/a3f54986-fd38-43ba-8fa0-a5a637962f29
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/maxwell-yuumi_6.0.0/maxwell-yuumi_6.0.0.fantome

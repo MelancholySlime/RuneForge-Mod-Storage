@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : yuumi-maxwell-v7-0-0-by-snorr.fantome
+Mod      : Maxwell Yuumi
+Source   : https://runeforge.dev/mods/a3f54986-fd38-43ba-8fa0-a5a637962f29
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/yuumi-maxwell-v7-0-0-by-snorr/yuumi-maxwell-v7-0-0-by-snorr.fantome

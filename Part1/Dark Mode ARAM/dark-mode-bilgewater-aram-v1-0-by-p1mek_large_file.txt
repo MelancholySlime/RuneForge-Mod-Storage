@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : dark-mode-bilgewater-aram-v1-0-by-p1mek.fantome
+Mod      : Dark Mode ARAM
+Source   : https://runeforge.dev/mods/fb091ee3-ea53-46d4-a00e-c3138fbc26aa
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/dark-mode-bilgewater-aram-v1-0-by-p1mek/dark-mode-bilgewater-aram-v1-0-by-p1mek.fantome

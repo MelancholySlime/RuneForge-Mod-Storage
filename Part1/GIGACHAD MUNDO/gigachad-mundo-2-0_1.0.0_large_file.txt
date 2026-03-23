@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : gigachad-mundo-2-0_1.0.0.fantome
+Mod      : GIGACHAD MUNDO
+Source   : https://runeforge.dev/mods/a6bf4ea7-d558-453c-8201-6f1fec043134
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/gigachad-mundo-2-0_1.0.0/gigachad-mundo-2-0_1.0.0.fantome
