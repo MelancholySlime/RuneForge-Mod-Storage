@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : karasu-swain.fantome
+Mod      : KARASU
+Source   : https://runeforge.dev/mods/0cda4313-46ba-4ebb-94e3-155aa25ca0de
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/karasu-swain/karasu-swain.fantome

@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : kratos-ambessa-gow-3_1.0.0.fantome
+Mod      : Kratos Ambessa GOW 3
+Source   : https://runeforge.dev/mods/699a3d19-7635-411b-a53e-d9aaac2f9b05
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/kratos-ambessa-gow-3_1.0.0/kratos-ambessa-gow-3_1.0.0.fantome
