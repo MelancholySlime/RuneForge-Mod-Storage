@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : septic-zac_1.0.0.fantome
+Mod      : Septic Zac
+Source   : https://runeforge.dev/mods/9e2c5232-5d13-4368-80e2-ac81978a0ef7
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/septic-zac_1.0.0/septic-zac_1.0.0.fantome
