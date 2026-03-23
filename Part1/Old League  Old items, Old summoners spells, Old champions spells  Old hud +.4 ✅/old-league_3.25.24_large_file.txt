@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : old-league_3.25.24.fantome
+Mod      : Old League  Old items, Old summoners spells, Old champions spells  Old hud +.4 ✅
+Source   : https://runeforge.dev/mods/4cc954e7-cad0-4e51-82f5-c153feee2a07
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/old-league_3.25.24/old-league_3.25.24.fantome
