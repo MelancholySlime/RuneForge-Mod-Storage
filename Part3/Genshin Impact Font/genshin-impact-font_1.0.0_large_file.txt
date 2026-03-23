@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : genshin-impact-font_1.0.0.fantome
+Mod      : Genshin Impact Font
+Source   : https://runeforge.dev/mods/9ba35196-3612-44f1-af0f-1af6b1b4951d
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/genshin-impact-font_1.0.0/genshin-impact-font_1.0.0.fantome

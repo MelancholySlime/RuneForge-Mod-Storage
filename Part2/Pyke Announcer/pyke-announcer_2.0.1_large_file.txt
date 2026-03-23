@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : pyke-announcer_2.0.1.fantome
+Mod      : Pyke Announcer
+Source   : https://runeforge.dev/mods/00353c4b-c238-439f-8144-65b55518dfa0
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/pyke-announcer_2.0.1/pyke-announcer_2.0.1.fantome
