@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : akahan-dances_1.0.0.fantome
+Mod      : Akahan Dances
+Source   : https://runeforge.dev/mods/4d5f96d7-eaf8-49e0-85a1-a526a15df301
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/akahan-dances_1.0.0/akahan-dances_1.0.0.fantome

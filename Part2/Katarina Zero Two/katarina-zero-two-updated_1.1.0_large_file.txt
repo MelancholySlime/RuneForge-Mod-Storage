@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : katarina-zero-two-updated_1.1.0.fantome
+Mod      : Katarina Zero Two
+Source   : https://runeforge.dev/mods/106337cc-ec80-4905-8f25-8c72315bff61
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/katarina-zero-two-updated_1.1.0/katarina-zero-two-updated_1.1.0.fantome

@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : akshan-take-the-l_1.0.0.fantome
+Mod      : Akshan Take the L
+Source   : https://runeforge.dev/mods/f51b4f11-8b86-4de0-b49e-4fc2644e6b6b
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/akshan-take-the-l_1.0.0/akshan-take-the-l_1.0.0.fantome
