@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![RuneForge ModKeeper Banner](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/banner.png)
+![RuneForge Mod-Storage Banner](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/banner.png)
 
 #  RuneForge Mod Storage
 
@@ -25,7 +25,7 @@
 
 ## 📖 About
 
-**RuneForge ModKeeper** is a fully automated archival system that runs daily at **7:00 AM (UTC+7)** — silently fetching and preserving every `.fantome` mod file published on [Runeforge.dev](https://runeforge.dev): custom skins, sound effects, VFX, loading screens, and more for **League of Legends**.
+**RuneForge Mod-Storage** is a fully automated archival system that runs daily at **7:00 AM (UTC+7)** — silently fetching and preserving every `.fantome` mod file published on [Runeforge.dev](https://runeforge.dev): custom skins, sound effects, VFX, loading screens, and more for **League of Legends**.
 
 No mod goes forgotten. No version gets left behind.
 
