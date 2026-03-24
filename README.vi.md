@@ -1,5 +1,11 @@
 <div align="center">
 
+🌐 **Language / Ngôn ngữ:** [🇬🇧 English](./README.md) · [🇻🇳 Tiếng Việt](./README.vi.md)
+
+</div>
+
+<div align="center">
+
 ![RuneForge Mod-Storage Banner](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/banner.png)
 
 #  RuneForge Mod Storage
@@ -14,13 +20,8 @@
 
 </div>
 
-
 ---
-<div align="center">
 
-🌐 **Language / Ngôn ngữ:** [🇬🇧 English](./README.md) · [🇻🇳 Tiếng Việt](./README.vi.md)
-
-</div>
 ## 📖 Giới Thiệu
 
 **RuneForge Mod-Storage** là hệ thống lưu trữ tự động chạy mỗi ngày lúc **7:00 sáng (UTC+7)** — âm thầm thu thập và bảo quản toàn bộ file `.fantome` được đăng trên [Runeforge.dev](https://runeforge.dev): skin tùy chỉnh, âm thanh, hiệu ứng VFX, màn loading và nhiều hơn nữa dành cho **League of Legends**.
