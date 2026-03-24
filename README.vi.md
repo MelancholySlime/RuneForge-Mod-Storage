@@ -1,8 +1,4 @@
-<div align="center">
 
-🌐 **Language / Ngôn ngữ:** [🇬🇧 English](./README.md) · [🇻🇳 Tiếng Việt](./README.vi.md)
-
-</div>
 
 <div align="center">
 
@@ -16,9 +12,16 @@
 [![Source](https://img.shields.io/badge/Nguồn-Runeforge.dev-f59e0b?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsOCA0IDgtNE0yIDEybDggNCA4LTQiLz48L3N2Zz4=)](https://runeforge.dev)
 [![League of Legends](https://img.shields.io/badge/Game-League%20of%20Legends-C89B3C?logo=riot-games)](https://leagueoflegends.com)
 
-*Một kho lưu trữ tự động — thu gom, gìn giữ và yêu thương toàn bộ Mod từ [Runeforge.dev](https://runeforge.dev) mà không bỏ sót bất kỳ phiên bản nào.*
+*Một kho lưu trữ tự động — thu gom, gìn giữ toàn bộ Mod từ [Runeforge.dev](https://runeforge.dev) mà không bỏ sót bất kỳ phiên bản nào.*
 
 </div>
+<div align="center">
+
+🌐 **Language / Ngôn ngữ:** [🇬🇧 English](./README.md) · [🇻🇳 Tiếng Việt](./README.vi.md)
+
+</div>
+
+
 
 ---
 
