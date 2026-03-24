@@ -1,11 +1,5 @@
 <div align="center">
 
-🌐 **Language / Ngôn ngữ:** [🇬🇧 English](./README.md) · [🇻🇳 Tiếng Việt](./README.vi.md)
-
-</div>
-
-<div align="center">
-
 ![RuneForge Mod-Storage Banner](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/banner.png)
 
 #  RuneForge Mod Storage
@@ -20,6 +14,11 @@
 
 </div>
 
+<div align="center">
+
+🌐 **Language / Ngôn ngữ:** [🇬🇧 English](./README.md) · [🇻🇳 Tiếng Việt](./README.vi.md)
+
+</div>
 ---
 
 ## 📖 Giới Thiệu
@@ -32,18 +31,20 @@ Không một Mod nào bị lãng quên. Không một phiên bản nào bị bỏ
 
 ## 📦 Cấu Trúc Kho Lưu Trữ
 
-Các tệp được tổ chức theo thư mục `Part`, mỗi thư mục chứa tối đa **~990 thư mục mod**. Khi một Part đầy, hệ thống tự động mở Part mới.
+Các tệp được tổ chức theo hai cấp thư mục. Mỗi **RF_Storage** chứa tối đa ~990 thư mục **Part**, mỗi Part chứa tối đa ~990 thư mục mod. Khi một Part đầy, hệ thống tự động mở Part mới — tương tự với Storage.
 
 ```
 📦 RuneForge-Mod-Storage/
-├── 📁 Part1/
-│   ├── 📂 Demon Yasuo LOLSKINARCHIVE/
-│   │   └── demon-yasuo-lolskinarchive-v2.fantome
-│   └── 📂 Spirit Blossom Yone Chroma VFX/
-│       ├── spirit-blossom-yone-chroma-vfx_1.0.0.fantome
-│       └── spirit-blossom-yone-chroma-vfx_1.1.0.fantome
-├── 📁 Part2/ ...
-└── 📁 PartN/ ...
+├── 🗄️ RF_Storage1/
+│   ├── 📁 Part1/
+│   │   ├── 📂 Demon Yasuo LOLSKINARCHIVE/
+│   │   │   └── demon-yasuo-lolskinarchive-v2.fantome
+│   │   └── 📂 Spirit Blossom Yone Chroma VFX/
+│   │       ├── spirit-blossom-yone-chroma-vfx_1.0.0.fantome
+│   │       └── spirit-blossom-yone-chroma-vfx_1.1.0.fantome
+│   └── 📁 Part2/ ...
+├── 🗄️ RF_Storage2/ ...
+└── 🗄️ RF_StorageN/ ...
 ```
 
 > File có dung lượng **trên 50 MB** sẽ được tải lên thẳng [GitHub Releases](https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases) thay vì commit thông thường.
@@ -76,7 +77,8 @@ Runeforge.dev ──────► Bot Cào Dữ Liệu ──────► G
 | 🗓️ Ngày tạo kho | 12 tháng 3, 2026 |
 | 🔄 Tần suất cập nhật | Hàng ngày · 7:00 sáng UTC+7 |
 | 💾 Dung lượng kho | ~34 GB và đang tăng |
-| 📦 Số file tối đa mỗi Part | 990 |
+| 🗄️ Parts tối đa mỗi Storage | 990 |
+| 📦 Mods tối đa mỗi Part | 990 |
 | 🚀 Tối đa mỗi lần push | 999 MB |
 
 ---
@@ -99,6 +101,11 @@ Kho lưu trữ này được xây dựng với tất cả tình yêu và sự t�
 
 ---
 
+## 🦊 Về Con Cáo Nhỏ
+
+Kho lưu trữ này được một con cáo nhỏ âm thầm gìn giữ — chạy khắp internet nhặt nhạnh từng chiếc mod một, chạy được bằng cà phê và trái tim. 🦊
+
+
 <div align="center">
-  <sub>Được vận hành bằng ☕ và 💖 · Tự động hóa bởi GitHub Actions · Không liên kết với Riot Games</sub>
+  <sub>Được vận hành bởi 🦊 với ☕, 💖 · Tự động hóa bởi GitHub Actions · Không liên kết với Riot Games</sub>
 </div>
