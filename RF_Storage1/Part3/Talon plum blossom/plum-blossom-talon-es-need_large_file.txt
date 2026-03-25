@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : plum-blossom-talon-es-need.fantome
+Mod      : Talon plum blossom
+Source   : https://runeforge.dev/mods/80c3bbdc-3fe5-43b4-abb9-837364244b01
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/plum-blossom-talon-es-need/plum-blossom-talon-es-need.fantome

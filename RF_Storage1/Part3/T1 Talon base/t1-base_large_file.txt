@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : t1-base.fantome
+Mod      : T1 Talon base
+Source   : https://runeforge.dev/mods/017fa0f7-88d9-43e6-9cf6-f2d7e1f3c76a
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/t1-base/t1-base.fantome

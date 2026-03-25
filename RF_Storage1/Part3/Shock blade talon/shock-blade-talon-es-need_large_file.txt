@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : shock-blade-talon-es-need.fantome
+Mod      : Shock blade talon
+Source   : https://runeforge.dev/mods/0cedb713-ab2b-41e0-8cf4-214b7c60af17
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/shock-blade-talon-es-need/shock-blade-talon-es-need.fantome
