@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : coven-gwen-v1-0-by-p1mek.fantome
+Mod      : Coven Gwen
+Source   : https://runeforge.dev/mods/fc947ec5-bb90-4176-b0da-87d4f813b71e
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/coven-gwen-v1-0-by-p1mek/coven-gwen-v1-0-by-p1mek.fantome
