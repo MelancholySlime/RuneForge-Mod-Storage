@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : cinna-hud-v1-0-by-p1mek.fantome
+Mod      : Cinnamorrol HUD [Saniro]
+Source   : https://runeforge.dev/mods/daefaaa9-3e24-4a13-84bb-5c0813a893e5
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/cinna-hud-v1-0-by-p1mek/cinna-hud-v1-0-by-p1mek.fantome
