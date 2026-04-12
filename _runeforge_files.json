@@ -5,7 +5,7 @@
   "part_mod_counts": {
     "RF_Storage1/Part1": 990,
     "RF_Storage1/Part2": 990,
-    "RF_Storage1/Part3": 969
+    "RF_Storage1/Part3": 971
   },
   "files": [
     "RF_Storage1/Part1/2B zaahen/2b-zaahen-v1-00-by-ceerel.fantome",
@@ -745,6 +745,7 @@
     "RF_Storage1/Part1/Haru Urara Fizz from Uma Musume/haru-urara-fizz-from-uma-musume_1.0.0_large_file.txt",
     "RF_Storage1/Part1/Haru Urara Fizz from Uma Musume/haru-urara-fizz-from-uma-musume_1.1.0.fantome",
     "RF_Storage1/Part1/Haru Urara Fizz from Uma Musume/haru-urara-fizz-uma-musume-v1-0-by-davex-nosummoners.fantome",
+    "RF_Storage1/Part1/Haru Urara Fizz from Uma Musume/haru-urara-fizz-uma-musume-v2-0-by-davex.fantome",
     "RF_Storage1/Part1/Hatsune Miku Smolder/Hatsune Miku Smolder V1.2.1 by Nate.fantome",
     "RF_Storage1/Part1/Hatsune Miku Smolder/hatsune-miku-smolder-v1-2-0-by-nate.fantome",
     "RF_Storage1/Part1/Hatsune Miku Smolder/hatsune-miku-smolder-v1-2-1-by-nate.fantome",
@@ -2325,6 +2326,7 @@
     "RF_Storage1/Part2/Akali (Briar)/akali-briar_1.0.0.fantome",
     "RF_Storage1/Part2/Akaza Sett/akaza-sett_1.0.0.fantome",
     "RF_Storage1/Part2/Akira Twisted Fate (Blue Archive)/akira-twisted-fate-blue-archive_1.0.0.fantome",
+    "RF_Storage1/Part2/Akira Twisted Fate (Blue Archive)/akira-twisted-fate-by-tarngaina.fantome",
     "RF_Storage1/Part2/Akshan Take the L/akshan-take-the-l_1.0.0_large_file.txt",
     "RF_Storage1/Part2/Alarak Kassadin - Heroes of the Storm/alarak-kassadin_1.0.0.fantome",
     "RF_Storage1/Part2/Alolan Sandslash Rammus/alolan-sandslash-rammus_0.0.1.fantome",
@@ -4381,6 +4383,7 @@
     "RF_Storage1/Part3/Fiddleyuumi/fiddleyuumi_1.0.1.fantome",
     "RF_Storage1/Part3/Finnish Orianna/finnish-orianna_1.1.0.fantome",
     "RF_Storage1/Part3/Finnish Orianna/finnish-orianna_1.2.0.fantome",
+    "RF_Storage1/Part3/Fiora Kyouka/fiora-kyouka.fantome",
     "RF_Storage1/Part3/Fiora Without the French/fiora-without-the-french_1.0.0.fantome",
     "RF_Storage1/Part3/Fiora troll R/fiora-troll-r_1.3.0.fantome",
     "RF_Storage1/Part3/Fiora troll R/fiora-troll-r_1.4.0.fantome",
@@ -4971,6 +4974,7 @@
     "RF_Storage1/Part3/Old Recall/old-recall_2.0.0.fantome",
     "RF_Storage1/Part3/Old Recall/old-recall_2.0.1.fantome",
     "RF_Storage1/Part3/Old Singed/old-singed_1.0.0.fantome",
+    "RF_Storage1/Part3/Old Spirit Guard Udyr 2013/old-spirit-guard-udyr4-0-1.fantome",
     "RF_Storage1/Part3/Old Storm Dragon Lee Sin/old-storm-dragon-lee-sin_1.0.0.fantome",
     "RF_Storage1/Part3/Old Taliyah/old-taliyah_1.0.0.fantome",
     "RF_Storage1/Part3/Old Tryndamere/old-tryndamere_1.0.0.fantome",
@@ -4992,6 +4996,7 @@
     "RF_Storage1/Part3/PROJECT K'Sante/project-k-sante_1.0.0.fantome",
     "RF_Storage1/Part3/PROJECT Kai'Sa/project-kai-sa_1.0.5.fantome",
     "RF_Storage1/Part3/PROJECT Vi Raiton/project-vi-raiton-1-0-0.fantome",
+    "RF_Storage1/Part3/PROJECT Vi Raiton/project-vi-raiton-1-0-1.fantome",
     "RF_Storage1/Part3/PUSH MUNDO/push-mundo_1.0.0.fantome",
     "RF_Storage1/Part3/Pantaking Renekton/pantaking-renekton_1.0.0.fantome",
     "RF_Storage1/Part3/Pantheon Minecraft/pantheon-minecraft_1510.1.2.fantome",
