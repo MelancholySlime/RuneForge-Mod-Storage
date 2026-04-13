@@ -106,6 +106,8 @@ This archive was built with love and deep respect for the creative community. We
 This archive is quietly maintained by a small fox who roams the internet collecting mods, fueled by coffee and a big heart. 🦊
 
 
+[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)
+
 <div align="center">
   <sub>Maintained by 🦊 with ☕, 💖 · Automated by GitHub Actions · Not affiliated with Riot Games</sub>
 </div>
