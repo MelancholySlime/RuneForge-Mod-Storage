@@ -8,11 +8,11 @@
 
 [![Auto Scraper](https://github.com/MelancholySlime/RuneForge-Mod-Storage/actions/workflows/runeforge_scraper.yml/badge.svg)](https://github.com/MelancholySlime/RuneForge-Mod-Storage/actions/workflows/runeforge_scraper.yml)
 [![Last Commit](https://img.shields.io/github/last-commit/MelancholySlime/RuneForge-Mod-Storage?color=7c3aed&label=Cập%20nhật%20lần%20cuối&logo=github)](https://github.com/MelancholySlime/RuneForge-Mod-Storage/commits/main)
-[![Repo Size](https://img.shields.io/github/repo-size/MelancholySlime/RuneForge-Mod-Storage?color=db2777&label=Dung%20lượng%20kho&logo=databricks)](https://github.com/MelancholySlime/RuneForge-Mod-Storage)
+[![Repo Size](https://img.shields.io/github/repo-size/MelancholySlime/RuneForge-Mod-Storage?color=db2777&label=Dung%20lượng&logo=databricks)](https://github.com/MelancholySlime/RuneForge-Mod-Storage)
 [![Source](https://img.shields.io/badge/Nguồn-Runeforge.dev-f59e0b?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsOCA0IDgtNE0yIDEybDggNCA4LTQiLz48L3N2Zz4=)](https://runeforge.dev)
 [![League of Legends](https://img.shields.io/badge/Game-League%20of%20Legends-C89B3C?logo=riot-games)](https://leagueoflegends.com)
 
-*Một kho lưu trữ tự động — thu gom, gìn giữ toàn bộ Mod từ [Runeforge.dev](https://runeforge.dev) mà không bỏ sót bất kỳ phiên bản nào.*
+*Một kho lưu trữ tự động — thu gom, lưu trữ toàn bộ Mod từ [Runeforge.dev](https://runeforge.dev).*
 
 </div>
 <div align="center">
@@ -107,8 +107,8 @@ Kho lưu trữ này được xây dựng với tất cả tình yêu và sự t�
 
 ## 🦊 Về Con Cáo Nhỏ
 
-Kho lưu trữ này được một con cáo nhỏ âm thầm gìn giữ — chạy khắp internet nhặt nhạnh từng chiếc mod một, chạy được bằng cà phê và trái tim. 🦊
-
+Kho lưu trữ này được âm thầm gìn giữ, chạy được bằng cà phê và trái tim. 🦊
+[![Discord](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/Banner2.png)](https://discord.gg/EEjd7DHj5r)
 
 <div align="center">
   <sub>Được vận hành bởi 🦊 với ☕, 💖 · Tự động hóa bởi GitHub Actions · Không liên kết với Riot Games</sub>
