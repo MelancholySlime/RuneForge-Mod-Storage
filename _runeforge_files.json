@@ -1,11 +1,12 @@
 {
   "storage_part_counts": {
-    "RF_Storage1": 3
+    "RF_Storage1": 4
   },
   "part_mod_counts": {
     "RF_Storage1/Part1": 990,
     "RF_Storage1/Part2": 990,
-    "RF_Storage1/Part3": 990
+    "RF_Storage1/Part3": 990,
+    "RF_Storage1/Part4": 3
   },
   "files": [
     "RF_Storage1/Part1/2B zaahen/2b-zaahen-v1-00-by-ceerel.fantome",
@@ -911,6 +912,7 @@
     "RF_Storage1/Part1/King Fleshpound (Sett)/king-fleshpound.fantome",
     "RF_Storage1/Part1/Kizaru Kassadin/kizaru-kassadin.fantome",
     "RF_Storage1/Part1/Klee Ziggs/klee-ziggs-v1-0-4-by-rorotea.fantome",
+    "RF_Storage1/Part1/Klee Ziggs/klee-ziggs-v1-0-5-by-rorotea.fantome",
     "RF_Storage1/Part1/Klee Ziggs/klee-ziggs_1.0.1.fantome",
     "RF_Storage1/Part1/Klee Ziggs/klee-ziggs_1.0.2.fantome",
     "RF_Storage1/Part1/Klee Ziggs/klee-ziggs_1.0.3.fantome",
@@ -2527,6 +2529,7 @@
     "RF_Storage1/Part2/Brazil Mordekaiser Ult/brazil-mordekaiser-ult_1.0.1.fantome",
     "RF_Storage1/Part2/Brazil Mordekaiser Ult/brazil-mordekaiser-ult_1.0.2.fantome",
     "RF_Storage1/Part2/Brewmaster Gragas - Dota 2/brewmaster-gragas_1.0.0.fantome",
+    "RF_Storage1/Part2/Bridget Ezreal/bridget-ezreal-v1-1-0-by-rorotea.fantome",
     "RF_Storage1/Part2/Bridget Ezreal/bridget-ezreal_1.0.0.fantome",
     "RF_Storage1/Part2/Bridget Ezreal/bridget-ezreal_1.0.1.fantome",
     "RF_Storage1/Part2/Bridget Ezreal/bridget-ezreal_1.0.2.fantome",
@@ -2842,11 +2845,13 @@
     "RF_Storage1/Part2/FuHua Zed/fu-hua-zed_1.0.1.fantome",
     "RF_Storage1/Part2/FuHua Zed/fu-hua-zed_1.0.2.fantome",
     "RF_Storage1/Part2/FuHua Zed/fu-hua-zed_1.0.3.fantome",
+    "RF_Storage1/Part2/FuXuan Thresh/fu-xuan-thresh-v2-1-0-by-rorotea.fantome",
     "RF_Storage1/Part2/FuXuan Thresh/fu-xuan-thresh_1.0.1.fantome",
     "RF_Storage1/Part2/FuXuan Thresh/fu-xuan-thresh_2.0.0.fantome",
     "RF_Storage1/Part2/Fuhua Vi/fuhua-vi_1.0.0.fantome",
     "RF_Storage1/Part2/Fuhua Vi/fuhua-vi_1.0.1.fantome",
     "RF_Storage1/Part2/Fuhua Vi/fuhua-vi_1.0.2.fantome",
+    "RF_Storage1/Part2/Furina MasterYi/furina-master-yi-v1-1-0-by-rorotea.fantome",
     "RF_Storage1/Part2/Furina MasterYi/furina-master-yi_1.0.1.fantome",
     "RF_Storage1/Part2/Furina MasterYi/furina-master-yi_1.0.2.fantome",
     "RF_Storage1/Part2/Furina MasterYi/furina-master-yi_1.0.3.fantome",
@@ -3257,6 +3262,7 @@
     "RF_Storage1/Part2/Metin2 Tryndamere/metin2-tryndamere_1.0.0.fantome",
     "RF_Storage1/Part2/Metin2 Vladimir/metin2-vladimir_1.0.0.fantome",
     "RF_Storage1/Part2/Miku Jinx/miku-jinx-v2-0-0-by-rorotea.fantome",
+    "RF_Storage1/Part2/Miku Jinx/miku-jinx-v2-0-1-by-rorotea.fantome",
     "RF_Storage1/Part2/Miku Jinx/miku-jinx_1.0.1.fantome",
     "RF_Storage1/Part2/Miku Jinx/miku-jinx_1.0.2.fantome",
     "RF_Storage1/Part2/Miku Jinx/miku-jinx_1.0.3.fantome",
@@ -3566,6 +3572,7 @@
     "RF_Storage1/Part2/Rayman Sett/rayman-sett_1.1.0.fantome",
     "RF_Storage1/Part2/Rei Aurora - Paladins/rei-aurora_1.0.0.fantome",
     "RF_Storage1/Part2/Reimu Hakurei Twisted Fate/fate_1.0.0.fantome",
+    "RF_Storage1/Part2/Reimu Nasus/reimu-nasus-v2-1-0-by-rorotea.fantome",
     "RF_Storage1/Part2/Reimu Nasus/reimu-nasus_2.0.1.fantome",
     "RF_Storage1/Part2/Reimu Nasus/reimu-nasus_2.0.2.fantome",
     "RF_Storage1/Part2/Reimu Nasus/reimu-nasus_2.0.3.fantome",
@@ -4748,6 +4755,7 @@
     "RF_Storage1/Part3/Kamisato Ayaka Yasuo/kamisato-ayaka-yasuo_0.0.1.fantome",
     "RF_Storage1/Part3/Kamisato Ayaka Yasuo/kamisato-ayaka-yasuo_1.0.0.fantome",
     "RF_Storage1/Part3/KannaKamui Chogath/kanna-kamui-chogath-v1-1-2-by-rorotea.fantome",
+    "RF_Storage1/Part3/KannaKamui Chogath/kanna-kamui-chogath-v1-2-0-by-rorotea.fantome",
     "RF_Storage1/Part3/KannaKamui Chogath/kanna-kamui-chogath_1.1.0.fantome",
     "RF_Storage1/Part3/KannaKamui Chogath/kanna-kamui-chogath_1.1.1.fantome",
     "RF_Storage1/Part3/Kassadin Tenka/kassadin-tenka.fantome",
@@ -5525,6 +5533,9 @@
     "RF_Storage1/Part3/wheelchair seraphine/wheelchair-seraphine_1.0.0.fantome",
     "RF_Storage1/Part3/wheelchair seraphine/wheelchair-seraphine_1.1.0.fantome",
     "RF_Storage1/Part3/🎃Halloween HUD👻/halloween-hud_1.0.0.fantome",
-    "RF_Storage1/Part3/🤫Silence Suzuka Talon🤫 from Uma Musume Pretty Derby/talon-silence-suzuka-from-uma-musume-v2-0-0-by-davex.fantome"
+    "RF_Storage1/Part3/🤫Silence Suzuka Talon🤫 from Uma Musume Pretty Derby/talon-silence-suzuka-from-uma-musume-v2-0-0-by-davex.fantome",
+    "RF_Storage1/Part4/Jarvan Huggy/jarvan-huggy.fantome",
+    "RF_Storage1/Part4/Nami Tail Physics/nami-tail-physics-by-suriin.fantome",
+    "RF_Storage1/Part4/WhatsApp Darius (Base)/base-w-pdarius.fantome"
   ]
 }
