@@ -6,7 +6,7 @@
     "RF_Storage1/Part1": 990,
     "RF_Storage1/Part2": 990,
     "RF_Storage1/Part3": 990,
-    "RF_Storage1/Part4": 3
+    "RF_Storage1/Part4": 5
   },
   "files": [
     "RF_Storage1/Part1/2B zaahen/2b-zaahen-v1-00-by-ceerel.fantome",
@@ -646,6 +646,7 @@
     "RF_Storage1/Part1/French Maid Nidalee Custom SFX/frenchmaidnidcustomsfx-oldvo.fantome",
     "RF_Storage1/Part1/Frieren Lux/frieren-lux-v1-1-2-by-rorotea.fantome",
     "RF_Storage1/Part1/Frieren Lux/frieren-lux-v2-0-0-by-rorotea.fantome",
+    "RF_Storage1/Part1/Frieren Lux/frieren-lux-v2-0-1-by-rorotea.fantome",
     "RF_Storage1/Part1/Frieren Lux/frieren-lux_1.0.1.fantome",
     "RF_Storage1/Part1/Frieren Lux/frieren-lux_1.1.0.fantome",
     "RF_Storage1/Part1/Frieren Lux/frieren-lux_1.1.1.fantome",
@@ -913,6 +914,7 @@
     "RF_Storage1/Part1/Kizaru Kassadin/kizaru-kassadin.fantome",
     "RF_Storage1/Part1/Klee Ziggs/klee-ziggs-v1-0-4-by-rorotea.fantome",
     "RF_Storage1/Part1/Klee Ziggs/klee-ziggs-v1-0-5-by-rorotea.fantome",
+    "RF_Storage1/Part1/Klee Ziggs/klee-ziggs-v1-0-6-by-rorotea.fantome",
     "RF_Storage1/Part1/Klee Ziggs/klee-ziggs_1.0.1.fantome",
     "RF_Storage1/Part1/Klee Ziggs/klee-ziggs_1.0.2.fantome",
     "RF_Storage1/Part1/Klee Ziggs/klee-ziggs_1.0.3.fantome",
@@ -1164,6 +1166,7 @@
     "RF_Storage1/Part1/Myrmidon Pantheon/pantheon.fantome",
     "RF_Storage1/Part1/Mythmaker Irelia chroma VFX/mythmaker-irelia-chroma-vfx.fantome",
     "RF_Storage1/Part1/Mythmaker Nami Chroma VFX/mythmaker-nami-chroma-vfx-by-suriin.fantome",
+    "RF_Storage1/Part1/Mythmaker Nami Chroma VFX/mythmaker-nami-chroma-vfx-v1-0-2-by-suriin.fantome",
     "RF_Storage1/Part1/Mythmaker Nami Chroma VFX/mythmaker-nami-chroma-vfx.fantome",
     "RF_Storage1/Part1/Mythmaker Zoe/mythmaker-zoe_1.0.0.fantome",
     "RF_Storage1/Part1/Mythmaker Zoe/mythmaker-zoe_2025.1.0.fantome",
@@ -2530,6 +2533,7 @@
     "RF_Storage1/Part2/Brazil Mordekaiser Ult/brazil-mordekaiser-ult_1.0.2.fantome",
     "RF_Storage1/Part2/Brewmaster Gragas - Dota 2/brewmaster-gragas_1.0.0.fantome",
     "RF_Storage1/Part2/Bridget Ezreal/bridget-ezreal-v1-1-0-by-rorotea.fantome",
+    "RF_Storage1/Part2/Bridget Ezreal/bridget-ezreal-v1-1-1-by-rorotea.fantome",
     "RF_Storage1/Part2/Bridget Ezreal/bridget-ezreal_1.0.0.fantome",
     "RF_Storage1/Part2/Bridget Ezreal/bridget-ezreal_1.0.1.fantome",
     "RF_Storage1/Part2/Bridget Ezreal/bridget-ezreal_1.0.2.fantome",
@@ -3263,6 +3267,7 @@
     "RF_Storage1/Part2/Metin2 Vladimir/metin2-vladimir_1.0.0.fantome",
     "RF_Storage1/Part2/Miku Jinx/miku-jinx-v2-0-0-by-rorotea.fantome",
     "RF_Storage1/Part2/Miku Jinx/miku-jinx-v2-0-1-by-rorotea.fantome",
+    "RF_Storage1/Part2/Miku Jinx/miku-jinx-v2-0-2-by-rorotea.fantome",
     "RF_Storage1/Part2/Miku Jinx/miku-jinx_1.0.1.fantome",
     "RF_Storage1/Part2/Miku Jinx/miku-jinx_1.0.2.fantome",
     "RF_Storage1/Part2/Miku Jinx/miku-jinx_1.0.3.fantome",
@@ -3560,6 +3565,7 @@
     "RF_Storage1/Part2/Ramlethal Annoucer (Recovery)/ramlethal-annoucer_1.0.0.fantome",
     "RF_Storage1/Part2/Ramlethal Annoucer (Recovery)/ramlethal-annoucer_1.0.1.fantome",
     "RF_Storage1/Part2/Ramlethal Annoucer (Recovery)/ramlethal-annoucer_15.16.0.fantome",
+    "RF_Storage1/Part2/Rappa Akali/rappa-akali-v2-1-4-by-rorotea.fantome",
     "RF_Storage1/Part2/Rappa Akali/rappa-akali_2.0.0.fantome",
     "RF_Storage1/Part2/Rappa Akali/rappa-akali_2.1.0.fantome",
     "RF_Storage1/Part2/Rappa Akali/rappa-akali_2.1.1.fantome",
@@ -5535,7 +5541,10 @@
     "RF_Storage1/Part3/🎃Halloween HUD👻/halloween-hud_1.0.0.fantome",
     "RF_Storage1/Part3/🤫Silence Suzuka Talon🤫 from Uma Musume Pretty Derby/talon-silence-suzuka-from-uma-musume-v2-0-0-by-davex.fantome",
     "RF_Storage1/Part4/Jarvan Huggy/jarvan-huggy.fantome",
+    "RF_Storage1/Part4/Katarina Chizuru/katarina-chizuru.fantome",
     "RF_Storage1/Part4/Nami Tail Physics/nami-tail-physics-by-suriin.fantome",
+    "RF_Storage1/Part4/Nami Tail Physics/nami-tail-physics-v1-0-1-by-suriin.fantome",
+    "RF_Storage1/Part4/Practice Targets Dummy Shields/practice-targets-dummy-shields-v1-0-0-by-segil-mansay.fantome",
     "RF_Storage1/Part4/WhatsApp Darius (Base)/base-w-pdarius.fantome"
   ]
 }
