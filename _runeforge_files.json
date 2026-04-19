@@ -6,7 +6,7 @@
     "RF_Storage1/Part1": 990,
     "RF_Storage1/Part2": 990,
     "RF_Storage1/Part3": 990,
-    "RF_Storage1/Part4": 5
+    "RF_Storage1/Part4": 7
   },
   "files": [
     "RF_Storage1/Part1/2B zaahen/2b-zaahen-v1-00-by-ceerel.fantome",
@@ -962,6 +962,7 @@
     "RF_Storage1/Part1/Left 4 Dead 2 Nick Akshan/l4-d2-nick-akshan_3.0.0.fantome",
     "RF_Storage1/Part1/Left 4 Dead 2 Nick Akshan/n-ick-akshan_1.0.0.fantome",
     "RF_Storage1/Part1/Left 4 Dead 2 Nick Akshan/n-ick-akshan_1.0.1.fantome",
+    "RF_Storage1/Part1/Left 4 Dead 2 Nick Akshan/nickshan-by-ascilia.fantome",
     "RF_Storage1/Part1/Left 4 Dead Louis Jhin/l4-d2-louis-jhin_1.0.0.fantome",
     "RF_Storage1/Part1/Lemongrab Yasuo/lemongrab-yasuo_1.0.0.fantome",
     "RF_Storage1/Part1/Lemongrab Yasuo/lemongrab-yasuo_1.0.1.fantome",
@@ -1622,6 +1623,7 @@
     "RF_Storage1/Part1/Riot Skin Disabler (NoSkin)/very-fixed-noskin-by-moga-v16-7-1-51-740.fantome",
     "RF_Storage1/Part1/Riot Skin Disabler (NoSkin)/very-fixed-noskin-by-moga-v16-7-1-52-743.fantome",
     "RF_Storage1/Part1/Riot Skin Disabler (NoSkin)/very-fixed-noskin-by-moga-v16-8-1-53-748.fantome",
+    "RF_Storage1/Part1/Riot Skin Disabler (NoSkin)/very-fixed-noskin-by-moga-v16-8-1-54-758.fantome",
     "RF_Storage1/Part1/Riven As Cloud/riven-as-cloud-v1-0-0-by-ceerel.fantome",
     "RF_Storage1/Part1/Riven Goddess of Light/riven-goddess-of-light_1.0.0_large_file.txt",
     "RF_Storage1/Part1/Riven Goddess of Light/riven-goddess-of-light_1.0.1_large_file.txt",
@@ -5540,11 +5542,13 @@
     "RF_Storage1/Part3/wheelchair seraphine/wheelchair-seraphine_1.1.0.fantome",
     "RF_Storage1/Part3/🎃Halloween HUD👻/halloween-hud_1.0.0.fantome",
     "RF_Storage1/Part3/🤫Silence Suzuka Talon🤫 from Uma Musume Pretty Derby/talon-silence-suzuka-from-uma-musume-v2-0-0-by-davex.fantome",
+    "RF_Storage1/Part4/Daxter Fizz/daxter-fizz-v1-1-0-by-jaku3.fantome",
     "RF_Storage1/Part4/Jarvan Huggy/jarvan-huggy.fantome",
     "RF_Storage1/Part4/Katarina Chizuru/katarina-chizuru.fantome",
     "RF_Storage1/Part4/Nami Tail Physics/nami-tail-physics-by-suriin.fantome",
     "RF_Storage1/Part4/Nami Tail Physics/nami-tail-physics-v1-0-1-by-suriin.fantome",
     "RF_Storage1/Part4/Practice Targets Dummy Shields/practice-targets-dummy-shields-v1-0-0-by-segil-mansay.fantome",
+    "RF_Storage1/Part4/Ryze Gojo/ryze-gojo.fantome",
     "RF_Storage1/Part4/WhatsApp Darius (Base)/base-w-pdarius.fantome"
   ]
 }
