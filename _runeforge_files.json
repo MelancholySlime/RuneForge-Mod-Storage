@@ -6,7 +6,7 @@
     "RF_Storage1/Part1": 990,
     "RF_Storage1/Part2": 990,
     "RF_Storage1/Part3": 990,
-    "RF_Storage1/Part4": 7
+    "RF_Storage1/Part4": 12
   },
   "files": [
     "RF_Storage1/Part1/2B zaahen/2b-zaahen-v1-00-by-ceerel.fantome",
@@ -1672,6 +1672,7 @@
     "RF_Storage1/Part1/Season 1 Summoner Spell Icons/season-1-summoner-spell-icons_1.0.0.fantome",
     "RF_Storage1/Part1/Season 3 HUD/season-3-hud-16-2-5-2-0.fantome",
     "RF_Storage1/Part1/Season 3 HUD/season-3-hud-by-soul-v16-07-5-0-0.fantome",
+    "RF_Storage1/Part1/Season 3 HUD/season-3-hud-by-soul-v16-08-5-0-0.fantome",
     "RF_Storage1/Part1/Season 3 HUD/season-3-hud_1517.5.0.fantome",
     "RF_Storage1/Part1/Season 3 HUD/season-3-hud_152.5.0.fantome",
     "RF_Storage1/Part1/Season 3 HUD/season-3-hud_152.5.1.fantome",
@@ -4437,6 +4438,7 @@
     "RF_Storage1/Part3/Gangplank Minecraft/gangplank-minecraft_156.2.4.fantome",
     "RF_Storage1/Part3/Gangplank Steveplank/steveplank-gangplank_156.1.5.fantome",
     "RF_Storage1/Part3/Gangster Renekton/gangster-renekton_1.0.0.fantome",
+    "RF_Storage1/Part3/Ganyu Jhin/ganyu-jhin-1-1-1.fantome",
     "RF_Storage1/Part3/Ganyu Jhin/ganyu-jhin_0.0.1.fantome",
     "RF_Storage1/Part3/Ganyu Jhin/ganyu-jhin_1.0.0.fantome",
     "RF_Storage1/Part3/Ganyu Jhin/ganyu-jhin_1.1.0.fantome",
@@ -5545,10 +5547,15 @@
     "RF_Storage1/Part4/Daxter Fizz/daxter-fizz-v1-1-0-by-jaku3.fantome",
     "RF_Storage1/Part4/Jarvan Huggy/jarvan-huggy.fantome",
     "RF_Storage1/Part4/Katarina Chizuru/katarina-chizuru.fantome",
+    "RF_Storage1/Part4/KillStreak - the promised neverland/kill-streak-emmas-theme-by-gx-hub.fantome",
+    "RF_Storage1/Part4/Little Mac - Sett/little-mac-sett-v1-0-3-by-igorcode.fantome",
     "RF_Storage1/Part4/Nami Tail Physics/nami-tail-physics-by-suriin.fantome",
     "RF_Storage1/Part4/Nami Tail Physics/nami-tail-physics-v1-0-1-by-suriin.fantome",
     "RF_Storage1/Part4/Practice Targets Dummy Shields/practice-targets-dummy-shields-v1-0-0-by-segil-mansay.fantome",
+    "RF_Storage1/Part4/Primordian Nocturne/primordian-nocturne-v1-0-0-by-aryas-demise.fantome",
+    "RF_Storage1/Part4/Primordian Vel'Koz/primordian-vel-koz-v1-0-0-by-aryas-demise.fantome",
     "RF_Storage1/Part4/Ryze Gojo/ryze-gojo.fantome",
+    "RF_Storage1/Part4/Vladimir Muzan/vladimir-muzan.fantome",
     "RF_Storage1/Part4/WhatsApp Darius (Base)/base-w-pdarius.fantome"
   ]
 }
