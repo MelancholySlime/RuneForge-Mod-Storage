@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : ichigo-aatrox-1-0-by-matthilobo.fantome
+Mod      : Ichigo Aatrox
+Source   : https://runeforge.dev/mods/fe532e0a-1f0e-45e9-8775-674aa8e98f25
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/ichigo-aatrox-1-0-by-matthilobo/ichigo-aatrox-1-0-by-matthilobo.fantome
