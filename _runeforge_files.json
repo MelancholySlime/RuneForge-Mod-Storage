@@ -6,7 +6,7 @@
     "RF_Storage1/Part1": 990,
     "RF_Storage1/Part2": 990,
     "RF_Storage1/Part3": 990,
-    "RF_Storage1/Part4": 18
+    "RF_Storage1/Part4": 25
   },
   "files": [
     "RF_Storage1/Part1/2B zaahen/2b-zaahen-v1-00-by-ceerel.fantome",
@@ -5328,6 +5328,7 @@
     "RF_Storage1/Part3/T-Ornn/t-ornn_0.0.0.fantome",
     "RF_Storage1/Part3/T-Ornn/t-ornn_2.0.0.fantome",
     "RF_Storage1/Part3/T1 Galio/t1-galio_1.0.1.fantome",
+    "RF_Storage1/Part3/T1 Talon base/t1-base-talon.fantome",
     "RF_Storage1/Part3/T1 Talon base/t1-base_large_file.txt",
     "RF_Storage1/Part3/THE MSPAINT SPLASH PACK/the-ms-paint-splash-pack-v1-0-0.fantome",
     "RF_Storage1/Part3/Tahm Kench Hat Edition/tahm-kench-hat-edition_1.0.0.fantome",
@@ -5552,9 +5553,13 @@
     "RF_Storage1/Part3/wheelchair seraphine/wheelchair-seraphine_1.1.0.fantome",
     "RF_Storage1/Part3/🎃Halloween HUD👻/halloween-hud_1.0.0.fantome",
     "RF_Storage1/Part3/🤫Silence Suzuka Talon🤫 from Uma Musume Pretty Derby/talon-silence-suzuka-from-uma-musume-v2-0-0-by-davex.fantome",
+    "RF_Storage1/Part4/Byakuya Yasuo/byakuya-yasuo-1-0-by-matthilobo_large_file.txt",
     "RF_Storage1/Part4/Carlotta Jhin/carlotta-jhin-v1-0-0-by-rorotea.fantome",
+    "RF_Storage1/Part4/Chitose yasuo (Stella Sora)/chitoseou-by-ascilia.fantome",
+    "RF_Storage1/Part4/Chitose yasuo (Stella Sora)/chitossuuu-by-ascilia.fantome",
     "RF_Storage1/Part4/Daxter Fizz/daxter-fizz-v1-1-0-by-jaku3.fantome",
     "RF_Storage1/Part4/Diana Shikimori/diana-shikimori.fantome",
+    "RF_Storage1/Part4/Ekko Isagi Yoichi/ekko-isagi-yoichi.fantome",
     "RF_Storage1/Part4/Eternal Aspect LeBlanc/eternal-aspect-le-blanc-v1-0-0-by-aryas-demise.fantome",
     "RF_Storage1/Part4/Fire Man Brand/fire-man-brand_1.0.0.fantome",
     "RF_Storage1/Part4/Ichigo Aatrox/ichigo-aatrox-1-0-by-matthilobo_large_file.txt",
@@ -5566,9 +5571,13 @@
     "RF_Storage1/Part4/Nami Tail Physics/nami-tail-physics-by-suriin.fantome",
     "RF_Storage1/Part4/Nami Tail Physics/nami-tail-physics-v1-0-1-by-suriin.fantome",
     "RF_Storage1/Part4/Practice Targets Dummy Shields/practice-targets-dummy-shields-v1-0-0-by-segil-mansay.fantome",
+    "RF_Storage1/Part4/Primordian Kogmaw/primordian-kogmaw.fantome",
     "RF_Storage1/Part4/Primordian Nocturne/primordian-nocturne-v1-0-0-by-aryas-demise.fantome",
     "RF_Storage1/Part4/Primordian Vel'Koz/primordian-vel-koz-v1-0-0-by-aryas-demise.fantome",
+    "RF_Storage1/Part4/Rossi Talon ( A9 Endfield )/rossina-wulfperl-lupinno-talon-v1-0-by-konari.fantome",
     "RF_Storage1/Part4/Ryze Gojo/ryze-gojo.fantome",
+    "RF_Storage1/Part4/Talon - Atsushi Murasakibara/talon-atsushi-murasakibara-need-es.fantome",
+    "RF_Storage1/Part4/Tsunade Sett/tsunade-sett-v1-0-0-by-rorotea.fantome",
     "RF_Storage1/Part4/Vladimir Muzan/vladimir-muzan.fantome",
     "RF_Storage1/Part4/WhatsApp Darius (Base)/base-w-pdarius.fantome"
   ]
