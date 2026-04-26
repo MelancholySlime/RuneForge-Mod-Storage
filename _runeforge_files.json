@@ -6,7 +6,7 @@
     "RF_Storage1/Part1": 990,
     "RF_Storage1/Part2": 990,
     "RF_Storage1/Part3": 990,
-    "RF_Storage1/Part4": 31
+    "RF_Storage1/Part4": 36
   },
   "files": [
     "RF_Storage1/Part1/2B zaahen/2b-zaahen-v1-00-by-ceerel.fantome",
@@ -1511,6 +1511,7 @@
     "RF_Storage1/Part1/Poro Rift - Minions/poro-rift-minions_1.0.2.fantome",
     "RF_Storage1/Part1/Pre-Release Hecarim/pre-release-hecarim_1.0.0.fantome",
     "RF_Storage1/Part1/Pre-Release Hired Gun Graves/graves_1.0.0.fantome",
+    "RF_Storage1/Part1/Pre-rework base Diana particles/pre-rework-base-diana-by-suriin.fantome",
     "RF_Storage1/Part1/Pre-rework base Diana particles/pre-rework-diana.fantome",
     "RF_Storage1/Part1/Prestige Firecracker Soraka/prestige-firecracker-soraka-v1-0-by-lordks-op.fantome",
     "RF_Storage1/Part1/Prestige Immortal Journey Kayle/prestige-immortal-journey-kayle.fantome",
@@ -5554,15 +5555,19 @@
     "RF_Storage1/Part3/wheelchair seraphine/wheelchair-seraphine_1.1.0.fantome",
     "RF_Storage1/Part3/🎃Halloween HUD👻/halloween-hud_1.0.0.fantome",
     "RF_Storage1/Part3/🤫Silence Suzuka Talon🤫 from Uma Musume Pretty Derby/talon-silence-suzuka-from-uma-musume-v2-0-0-by-davex.fantome",
+    "RF_Storage1/Part4/Aizen viego/aizen-viego_large_file.txt",
     "RF_Storage1/Part4/Albert Wesker lucian/wesker-lucian.fantome",
     "RF_Storage1/Part4/Braum All Might/braum-all-might.fantome",
     "RF_Storage1/Part4/Byakuya Yasuo/byakuya-yasuo-1-0-by-matthilobo_large_file.txt",
     "RF_Storage1/Part4/Carlotta Jhin/carlotta-jhin-v1-0-0-by-rorotea.fantome",
     "RF_Storage1/Part4/Chitose yasuo (Stella Sora)/chitoseou-by-ascilia.fantome",
     "RF_Storage1/Part4/Chitose yasuo (Stella Sora)/chitossuuu-by-ascilia.fantome",
+    "RF_Storage1/Part4/Crystal Rose Evelynn/crystal-rose-evelynn-1-0-0.fantome",
     "RF_Storage1/Part4/Daxter Fizz/daxter-fizz-v1-1-0-by-jaku3.fantome",
+    "RF_Storage1/Part4/Demon Font/demon-font-v1-0-by-demon.fantome",
     "RF_Storage1/Part4/Diana Shikimori/diana-shikimori.fantome",
     "RF_Storage1/Part4/Dreamybull Announcer/dreamybull-announcer-v1-1-by-haigblo.fantome",
+    "RF_Storage1/Part4/Dreamybull Announcer/dreamybull-announcer-v1-3-by-haigblo.fantome",
     "RF_Storage1/Part4/Ekko Isagi Yoichi/ekko-isagi-yoichi.fantome",
     "RF_Storage1/Part4/Eternal Aspect LeBlanc/eternal-aspect-le-blanc-v1-0-0-by-aryas-demise.fantome",
     "RF_Storage1/Part4/Fire Man Brand/fire-man-brand_1.0.0.fantome",
@@ -5581,11 +5586,13 @@
     "RF_Storage1/Part4/Primordian Kogmaw/primordian-kogmaw.fantome",
     "RF_Storage1/Part4/Primordian Nocturne/primordian-nocturne-v1-0-0-by-aryas-demise.fantome",
     "RF_Storage1/Part4/Primordian Vel'Koz/primordian-vel-koz-v1-0-0-by-aryas-demise.fantome",
+    "RF_Storage1/Part4/Roland Viego (Library of Ruina)/roland-viego.fantome",
     "RF_Storage1/Part4/Rossi Talon ( A9 Endfield )/rossina-wulfperl-lupinno-talon-v1-0-by-konari.fantome",
     "RF_Storage1/Part4/Ryze Gojo/ryze-gojo.fantome",
     "RF_Storage1/Part4/Talon - Atsushi Murasakibara/talon-atsushi-murasakibara-need-es.fantome",
     "RF_Storage1/Part4/Tsunade Sett/tsunade-sett-v1-0-0-by-rorotea.fantome",
     "RF_Storage1/Part4/Vladimir Muzan/vladimir-muzan.fantome",
-    "RF_Storage1/Part4/WhatsApp Darius (Base)/base-w-pdarius.fantome"
+    "RF_Storage1/Part4/WhatsApp Darius (Base)/base-w-pdarius.fantome",
+    "RF_Storage1/Part4/Yasuo Luffy Gear 5/yasuo-luffy-gear-5.fantome"
   ]
 }

@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : aizen-viego.fantome
+Mod      : Aizen viego
+Source   : https://runeforge.dev/mods/5253bac1-6cef-4666-869b-59bd79387966
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/aizen-viego/aizen-viego.fantome
