@@ -6,7 +6,7 @@
     "RF_Storage1/Part1": 990,
     "RF_Storage1/Part2": 990,
     "RF_Storage1/Part3": 990,
-    "RF_Storage1/Part4": 36
+    "RF_Storage1/Part4": 40
   },
   "files": [
     "RF_Storage1/Part1/2B zaahen/2b-zaahen-v1-00-by-ceerel.fantome",
@@ -98,6 +98,7 @@
     "RF_Storage1/Part1/Arclight Draven/arclight-draven-1-0-1-valfren.fantome",
     "RF_Storage1/Part1/Arclight Draven/arclight-draven-1-0-2-valfren.fantome",
     "RF_Storage1/Part1/Arclight Draven/arclight-draven-1-0-3-valfren-repathed.fantome",
+    "RF_Storage1/Part1/Arclight Draven/arclight-draven-1-0-4-valfren.fantome",
     "RF_Storage1/Part1/Arclight Draven/arclight-draven.fantome",
     "RF_Storage1/Part1/Arcraptor Kog'Maw/arcraptor-kog-maw_1.0.0.fantome",
     "RF_Storage1/Part1/Arena Soul Fighter BGM/arena-of-souls-1-0-0.fantome",
@@ -4393,6 +4394,7 @@
     "RF_Storage1/Part3/Elekid Kennen/elekid-kennen_1.0.0.fantome",
     "RF_Storage1/Part3/Elekid Kennen/elekid-kennen_1.1.0.fantome",
     "RF_Storage1/Part3/Elephant Chief Ksante/elephant-chief-ksante_1.0.0.fantome",
+    "RF_Storage1/Part3/Elysia Orianna/elysia-orianna-v1-1-0-by-rorotea.fantome",
     "RF_Storage1/Part3/Elysia Orianna/elysia-orianna_1.0.0.fantome",
     "RF_Storage1/Part3/Elysia Orianna/elysia-orianna_1.0.1.fantome",
     "RF_Storage1/Part3/Elysia cursor (Honkai Impact 3)/elysia-cursor-honkai-impact-3_1.0.0.fantome",
@@ -5487,6 +5489,7 @@
     "RF_Storage1/Part3/Yagami Hayate Malzahar/yagami-hayate-malzahar-v1-5-0.fantome",
     "RF_Storage1/Part3/Yasuo Tanjiro/yasuo-tanjiro.fantome",
     "RF_Storage1/Part3/Yasuo Without the Wanderer/yasuo-without-the-wanderer_1.0.0.fantome",
+    "RF_Storage1/Part3/Ymir Camille/ymir-camille-v1-1-0-by-rorotea.fantome",
     "RF_Storage1/Part3/Ymir Camille/ymir-camille_1.0.1.fantome",
     "RF_Storage1/Part3/Yone Levi/yone-levi.fantome",
     "RF_Storage1/Part3/Yone Without the Hunter/yone-without-the-hunter_1.0.0.fantome",
@@ -5568,6 +5571,7 @@
     "RF_Storage1/Part4/Diana Shikimori/diana-shikimori.fantome",
     "RF_Storage1/Part4/Dreamybull Announcer/dreamybull-announcer-v1-1-by-haigblo.fantome",
     "RF_Storage1/Part4/Dreamybull Announcer/dreamybull-announcer-v1-3-by-haigblo.fantome",
+    "RF_Storage1/Part4/Dreamybull Announcer/dreamybull-announcer-v1-4-by-haigblo.fantome",
     "RF_Storage1/Part4/Ekko Isagi Yoichi/ekko-isagi-yoichi.fantome",
     "RF_Storage1/Part4/Eternal Aspect LeBlanc/eternal-aspect-le-blanc-v1-0-0-by-aryas-demise.fantome",
     "RF_Storage1/Part4/Fire Man Brand/fire-man-brand_1.0.0.fantome",
@@ -5579,8 +5583,10 @@
     "RF_Storage1/Part4/L4 D2 Louis Jhin/l4-d2-louis-jhin_1.0.0.fantome",
     "RF_Storage1/Part4/LeBlanc Frieren/le-blanc-frieren.fantome",
     "RF_Storage1/Part4/Little Mac - Sett/little-mac-sett-v1-0-3-by-igorcode.fantome",
+    "RF_Storage1/Part4/Luigi Dealer Twisted Fate/luigi-dealer-tf.fantome",
     "RF_Storage1/Part4/Nami Tail Physics/nami-tail-physics-by-suriin.fantome",
     "RF_Storage1/Part4/Nami Tail Physics/nami-tail-physics-v1-0-1-by-suriin.fantome",
+    "RF_Storage1/Part4/Pink Princess Yunara/pink-princess-yunara.fantome",
     "RF_Storage1/Part4/Practice Targets Dummy Shields/practice-targets-dummy-shields-v1-0-0-by-segil-mansay.fantome",
     "RF_Storage1/Part4/Prestige Dark Star Mordekaiser/dark-star-omega-mordekaiser-v1-0-by-hyperios.fantome",
     "RF_Storage1/Part4/Primordian Kogmaw/primordian-kogmaw.fantome",
@@ -5589,10 +5595,12 @@
     "RF_Storage1/Part4/Roland Viego (Library of Ruina)/roland-viego.fantome",
     "RF_Storage1/Part4/Rossi Talon ( A9 Endfield )/rossina-wulfperl-lupinno-talon-v1-0-by-konari.fantome",
     "RF_Storage1/Part4/Ryze Gojo/ryze-gojo.fantome",
+    "RF_Storage1/Part4/Sion Colossal Titan/sion-colossal-titan.fantome",
     "RF_Storage1/Part4/Talon - Atsushi Murasakibara/talon-atsushi-murasakibara-need-es.fantome",
     "RF_Storage1/Part4/Tsunade Sett/tsunade-sett-v1-0-0-by-rorotea.fantome",
     "RF_Storage1/Part4/Vladimir Muzan/vladimir-muzan.fantome",
     "RF_Storage1/Part4/WhatsApp Darius (Base)/base-w-pdarius.fantome",
+    "RF_Storage1/Part4/YOU HAVE NO MANA/you-have-no-mana-v1-0-0-by-aropatnik.fantome",
     "RF_Storage1/Part4/Yasuo Luffy Gear 5/yasuo-luffy-gear-5.fantome"
   ]
 }
