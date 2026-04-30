@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : old-spirit-guard-udyr2013-v4-0-5.fantome
+Mod      : Old Spirit Guard Udyr 2013
+Source   : https://runeforge.dev/mods/55256409-4084-4fb7-bbe6-78a592d6029a
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/old-spirit-guard-udyr2013-v4-0-5/old-spirit-guard-udyr2013-v4-0-5.fantome
