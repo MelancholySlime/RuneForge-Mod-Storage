@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : announcer-chinese-v26-9-by-aropatnik.fantome
+Mod      : Chinese Announcer
+Source   : https://runeforge.dev/mods/b8b61286-763d-4577-ad13-8eba1b3853c8
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/announcer-chinese-v26-9-by-aropatnik/announcer-chinese-v26-9-by-aropatnik.fantome

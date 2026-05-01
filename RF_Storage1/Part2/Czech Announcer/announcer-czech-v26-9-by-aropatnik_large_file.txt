@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : announcer-czech-v26-9-by-aropatnik.fantome
+Mod      : Czech Announcer
+Source   : https://runeforge.dev/mods/1ca85038-5080-4e16-9277-79dfda061f14
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/announcer-czech-v26-9-by-aropatnik/announcer-czech-v26-9-by-aropatnik.fantome

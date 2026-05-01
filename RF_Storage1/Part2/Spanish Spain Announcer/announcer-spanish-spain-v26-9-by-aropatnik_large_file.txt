@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : announcer-spanish-spain-v26-9-by-aropatnik.fantome
+Mod      : Spanish Spain Announcer
+Source   : https://runeforge.dev/mods/de35c39c-227e-44d3-8502-e0dcb8fbdf94
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/announcer-spanish-spain-v26-9-by-aropatnik/announcer-spanish-spain-v26-9-by-aropatnik.fantome

@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : announcer-romanian-v26-9-by-aropatnik.fantome
+Mod      : Romanian Announcer
+Source   : https://runeforge.dev/mods/5048e1f0-1192-49b6-b3eb-6c00a7a03e8f
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/announcer-romanian-v26-9-by-aropatnik/announcer-romanian-v26-9-by-aropatnik.fantome
