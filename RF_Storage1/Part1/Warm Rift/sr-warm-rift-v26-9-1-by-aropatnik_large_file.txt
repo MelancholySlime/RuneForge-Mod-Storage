@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : sr-warm-rift-v26-9-1-by-aropatnik.fantome
+Mod      : Warm Rift
+Source   : https://runeforge.dev/mods/b0f298e1-0ac6-4162-9c7d-9c22053dacec
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/sr-warm-rift-v26-9-1-by-aropatnik/sr-warm-rift-v26-9-1-by-aropatnik.fantome
