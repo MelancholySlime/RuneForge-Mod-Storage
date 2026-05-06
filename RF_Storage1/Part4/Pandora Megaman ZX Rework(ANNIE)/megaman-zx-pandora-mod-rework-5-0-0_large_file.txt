@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : megaman-zx-pandora-mod-rework-5-0-0.fantome
+Mod      : Pandora Megaman ZX Rework(ANNIE)
+Source   : https://runeforge.dev/mods/d8dfb62e-322a-4bce-a211-653b6aa7a129
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/megaman-zx-pandora-mod-rework-5-0-0/megaman-zx-pandora-mod-rework-5-0-0.fantome
