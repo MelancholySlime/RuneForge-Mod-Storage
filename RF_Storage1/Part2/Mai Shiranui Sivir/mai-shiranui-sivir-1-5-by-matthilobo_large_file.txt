@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : mai-shiranui-sivir-1-5-by-matthilobo.fantome
+Mod      : Mai Shiranui Sivir
+Source   : https://runeforge.dev/mods/4abd3a5e-ae2c-4d91-97b5-37ef10ca13ef
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/mai-shiranui-sivir-1-5-by-matthilobo/mai-shiranui-sivir-1-5-by-matthilobo.fantome
