@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : bayonetta-samira-v1-11-by-ceerel.fantome
+Mod      : Bayonetta Samira
+Source   : https://runeforge.dev/mods/f8663879-82e0-492b-9a06-229c40b76839
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/bayonetta-samira-v1-11-by-ceerel/bayonetta-samira-v1-11-by-ceerel.fantome
