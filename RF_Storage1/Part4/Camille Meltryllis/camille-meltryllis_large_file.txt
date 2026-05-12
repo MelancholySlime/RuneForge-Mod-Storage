@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : camille-meltryllis.fantome
+Mod      : Camille Meltryllis
+Source   : https://runeforge.dev/mods/4429b98b-e0c6-4f34-ae28-268f9df033f1
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/camille-meltryllis/camille-meltryllis.fantome

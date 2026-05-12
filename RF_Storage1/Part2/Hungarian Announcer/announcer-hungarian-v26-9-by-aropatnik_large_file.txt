@@ -1,5 +1,5 @@
-[LARGE FILE - UPLOAD FAILED]
+[LARGE FILE - STORED IN GITHUB RELEASES]
 Filename : announcer-hungarian-v26-9-by-aropatnik.fantome
 Mod      : Hungarian Announcer
 Source   : https://runeforge.dev/mods/96e35fdc-b3a9-4d7b-bde3-5c0a2f90256f
-Note     : Upload thất bại. Cần tải lại thủ công.
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/announcer-hungarian-v26-9-by-aropatnik/announcer-hungarian-v26-9-by-aropatnik.fantome
