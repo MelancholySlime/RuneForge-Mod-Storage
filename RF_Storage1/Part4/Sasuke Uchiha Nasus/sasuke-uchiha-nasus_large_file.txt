@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : sasuke-uchiha-nasus.fantome
+Mod      : Sasuke Uchiha Nasus
+Source   : https://runeforge.dev/mods/f3ce5f3d-77c3-4a1e-b740-0387b1146ba6
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/sasuke-uchiha-nasus/sasuke-uchiha-nasus.fantome
