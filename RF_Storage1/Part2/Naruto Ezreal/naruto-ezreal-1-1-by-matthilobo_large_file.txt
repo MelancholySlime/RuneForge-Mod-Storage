@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : naruto-ezreal-1-1-by-matthilobo.fantome
+Mod      : Naruto Ezreal
+Source   : https://runeforge.dev/mods/ef51c080-8036-4fb3-afb2-cb1792507a7c
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/naruto-ezreal-1-1-by-matthilobo/naruto-ezreal-1-1-by-matthilobo.fantome
