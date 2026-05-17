@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : zeus-volibear-0-1-1.fantome
+Mod      : Zeus (Volibear) GOD OF WAR
+Source   : https://runeforge.dev/mods/89c0a952-4d5d-4059-b178-2eaec4a14187
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/zeus-volibear-0-1-1/zeus-volibear-0-1-1.fantome
