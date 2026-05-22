@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : itachi-zed-1-0-by-matthilobo.fantome
+Mod      : Itachi Zed
+Source   : https://runeforge.dev/mods/534c0fa1-9141-44fb-966b-67ba19c2ac95
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/itachi-zed-1-0-by-matthilobo/itachi-zed-1-0-by-matthilobo.fantome
