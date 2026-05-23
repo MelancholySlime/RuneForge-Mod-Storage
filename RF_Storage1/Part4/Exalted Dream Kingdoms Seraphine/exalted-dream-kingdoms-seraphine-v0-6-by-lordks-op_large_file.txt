@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : exalted-dream-kingdoms-seraphine-v0-6-by-lordks-op.fantome
+Mod      : Exalted Dream Kingdoms Seraphine
+Source   : https://runeforge.dev/mods/7d574b5a-18b4-487f-ad33-6f7d1b62f3d1
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/exalted-dream-kingdoms-seraphine-v0-6-by-lordks-op/exalted-dream-kingdoms-seraphine-v0-6-by-lordks-op.fantome
