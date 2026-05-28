@@ -6,7 +6,7 @@
     "RF_Storage1/Part1": 990,
     "RF_Storage1/Part2": 990,
     "RF_Storage1/Part3": 990,
-    "RF_Storage1/Part4": 174
+    "RF_Storage1/Part4": 176
   },
   "files": [
     "RF_Storage1/Part1/2B zaahen/2b-zaahen-v1-00-by-ceerel.fantome",
@@ -1186,6 +1186,7 @@
     "RF_Storage1/Part1/Minato Aqua Yasuo/minato-aqua-yasuo_1.1.0.fantome",
     "RF_Storage1/Part1/Minato Aqua Yasuo/minato-aqua-yasuo_1.1.1.fantome",
     "RF_Storage1/Part1/Minato Aqua Yasuo/minato-aqua-yasuo_1.1.2.fantome",
+    "RF_Storage1/Part1/Minato Aqua Yasuo/minato-nek-aqua-yasuo-v1-2-1-by-the-melancholy-of-slime.fantome",
     "RF_Storage1/Part1/Minato Talon/minato-talon-1-0-by-matthilobo.fantome",
     "RF_Storage1/Part1/Minecraft Aatrox/minecraft-aatrox-1-0-0.fantome",
     "RF_Storage1/Part1/Minecraft Aatrox/minecraft-aatrox-2-0-0.fantome",
@@ -1740,6 +1741,7 @@
     "RF_Storage1/Part1/Ruined Karma chroma VFX/ruined-karma-chroma-vfx.fantome",
     "RF_Storage1/Part1/RuneScape Dragon Scimitar Cursor/cursor-dragon-scimitar-v1-1-0-by-aropatnik.fantome",
     "RF_Storage1/Part1/SAO SINON CAITLYN/caitlyn-repathed-caitlyn.fantome",
+    "RF_Storage1/Part1/SAO SINON CAITLYN/sao-sinon-caitlyn.fantome",
     "RF_Storage1/Part1/SB Riven Red/sb-riven-red_1.0.0.fantome",
     "RF_Storage1/Part1/SH3 HEATHER MASON VAYNE/sh-3-heather-mason-vayne_1.0.1.fantome",
     "RF_Storage1/Part1/SH3 HEATHER MASON VAYNE/sh-3-heather-mason-vayne_1.0.2.fantome",
@@ -5141,6 +5143,7 @@
     "RF_Storage1/Part3/Mel Chroma Pack/mel-red-dress.fantome",
     "RF_Storage1/Part3/Mel Chroma Pack/mel-white-dress.fantome",
     "RF_Storage1/Part3/Mel Salvador/mel-salvador_1.0.0.fantome",
+    "RF_Storage1/Part3/Melmetal Ambessa/melmetal-ambessa-v1-0-5-by-nyht.fantome",
     "RF_Storage1/Part3/Melmetal Ambessa/melmetal-ambessa_1.0.0.fantome",
     "RF_Storage1/Part3/Melmetal Ambessa/melmetal-ambessa_1.0.1.fantome",
     "RF_Storage1/Part3/Melmetal Ambessa/melmetal-ambessa_1.0.2.fantome",
@@ -5921,6 +5924,7 @@
     "RF_Storage1/Part4/Keqing Riven/keqing-riven-v1-0-0-by-rorotea.fantome",
     "RF_Storage1/Part4/Kha'Zix -b dopamine/khazix-b-1-0-1.fantome",
     "RF_Storage1/Part4/KillStreak - the promised neverland/kill-streak-emmas-theme-by-gx-hub.fantome",
+    "RF_Storage1/Part4/Koishi Komeiji Talon/koishi-komeiji-talon-by-defaultics.fantome",
     "RF_Storage1/Part4/L4 D2 Louis Jhin/l4-d2-louis-jhin_1.0.0.fantome",
     "RF_Storage1/Part4/Laevatain Talon from Arknights Endfield/talon-laevatain-from-arknights-endfield-1-1-0.fantome",
     "RF_Storage1/Part4/LeBlanc Frieren/le-blanc-frieren.fantome",
@@ -5998,6 +6002,7 @@
     "RF_Storage1/Part4/RuanMei Hwei/ruan-mei-hwei-v1-0-0-by-rorotea.fantome",
     "RF_Storage1/Part4/RuanMei Hwei/ruan-mei-hwei-v1-0-1-by-rorotea.fantome",
     "RF_Storage1/Part4/Ryze Gojo/ryze-gojo.fantome",
+    "RF_Storage1/Part4/Ryze Light/ryze-light.fantome",
     "RF_Storage1/Part4/Sasuke Uchiha Nasus/sasuke-uchiha-nasus_large_file.txt",
     "RF_Storage1/Part4/Sentinel Graves Chroma VFX/sentinel-graves-chromas.fantome",
     "RF_Storage1/Part4/Sett Attack Titan/sett-attack-titan.fantome",
