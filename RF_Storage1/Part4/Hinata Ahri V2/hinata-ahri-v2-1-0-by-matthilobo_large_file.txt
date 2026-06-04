@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : hinata-ahri-v2-1-0-by-matthilobo.fantome
+Mod      : Hinata Ahri V2
+Source   : https://runeforge.dev/mods/379bbafe-00eb-4c48-9689-f6c3e3e8eb59
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/hinata-ahri-v2-1-0-by-matthilobo/hinata-ahri-v2-1-0-by-matthilobo.fantome
