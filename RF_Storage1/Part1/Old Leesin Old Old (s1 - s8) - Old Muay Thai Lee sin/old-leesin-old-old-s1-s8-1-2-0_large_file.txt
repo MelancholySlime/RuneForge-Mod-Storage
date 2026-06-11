@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : old-leesin-old-old-s1-s8-1-2-0.fantome
+Mod      : Old Leesin Old Old (s1 - s8) - Old Muay Thai Lee sin
+Source   : https://runeforge.dev/mods/61fa1a9a-cce4-47ee-8b89-56b21d6e37d2
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/old-leesin-old-old-s1-s8-1-2-0/old-leesin-old-old-s1-s8-1-2-0.fantome

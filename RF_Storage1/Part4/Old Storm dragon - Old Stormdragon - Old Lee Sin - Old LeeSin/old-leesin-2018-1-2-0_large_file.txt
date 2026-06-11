@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : old-leesin-2018-1-2-0.fantome
+Mod      : Old Storm dragon - Old Stormdragon - Old Lee Sin - Old LeeSin
+Source   : https://runeforge.dev/mods/c65102f8-d295-498d-bb66-1a67cc84b833
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/old-leesin-2018-1-2-0/old-leesin-2018-1-2-0.fantome

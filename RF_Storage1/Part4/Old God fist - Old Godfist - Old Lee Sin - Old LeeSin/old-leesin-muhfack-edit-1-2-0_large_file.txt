@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : old-leesin-muhfack-edit-1-2-0.fantome
+Mod      : Old God fist - Old Godfist - Old Lee Sin - Old LeeSin
+Source   : https://runeforge.dev/mods/e9f9b4a0-0d0d-4daa-9c13-0ba861cb2c46
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/old-leesin-muhfack-edit-1-2-0/old-leesin-muhfack-edit-1-2-0.fantome
