@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : pool-party-twitch-rework-v1-0-by-p1mek.fantome
+Mod      : Pool Party Twitch
+Source   : https://runeforge.dev/mods/2bdd01d2-a36b-4c3b-84a2-262fdd1c1e1f
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/pool-party-twitch-rework-v1-0-by-p1mek/pool-party-twitch-rework-v1-0-by-p1mek.fantome
