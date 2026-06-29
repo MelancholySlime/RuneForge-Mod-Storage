@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : ocean-song-zeri-chroma-vfx-by-suriin.fantome
+Mod      : Ocean Song Zeri chroma VFX
+Source   : https://runeforge.dev/mods/ced9269c-9bd1-4e9d-afd0-2e6295b36b2d
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/ocean-song-zeri-chroma-vfx-by-suriin/ocean-song-zeri-chroma-vfx-by-suriin.fantome

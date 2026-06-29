@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : high-noon-gragas-chroma-vfx-by-suriin.fantome
+Mod      : High Noon Gragas Chroma VFX
+Source   : https://runeforge.dev/mods/2101261d-0697-4c0e-8d35-6a1340000c98
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/high-noon-gragas-chroma-vfx-by-suriin/high-noon-gragas-chroma-vfx-by-suriin.fantome

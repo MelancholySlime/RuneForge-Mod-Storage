@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : winterblessed-hecarim-chroma-vfx-by-suriin.fantome
+Mod      : Winterblessed Hecarim chroma VFX
+Source   : https://runeforge.dev/mods/d78b13a2-ffe2-45be-911a-409fe2e94922
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/winterblessed-hecarim-chroma-vfx-by-suriin/winterblessed-hecarim-chroma-vfx-by-suriin.fantome
