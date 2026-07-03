@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : goku-lee-sin-old-vfx-sfx-vo.fantome
+Mod      : Goku Lee Sin
+Source   : https://runeforge.dev/mods/72bf9972-5dd1-4fe0-9d2b-c262dd718a10
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/goku-lee-sin-old-vfx-sfx-vo/goku-lee-sin-old-vfx-sfx-vo.fantome

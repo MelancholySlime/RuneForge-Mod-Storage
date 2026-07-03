@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : cj-lee-sin-old-vfx-sfx-vo.fantome
+Mod      : GTA CJ Lee Sin
+Source   : https://runeforge.dev/mods/3be62065-a8ca-4bbf-ab2c-aad25acf3de4
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/cj-lee-sin-old-vfx-sfx-vo/cj-lee-sin-old-vfx-sfx-vo.fantome

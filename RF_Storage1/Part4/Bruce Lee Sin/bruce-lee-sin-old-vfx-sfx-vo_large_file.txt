@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : bruce-lee-sin-old-vfx-sfx-vo.fantome
+Mod      : Bruce Lee Sin
+Source   : https://runeforge.dev/mods/146c0554-98fc-4ce4-8b76-9e1fccc8ef86
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/bruce-lee-sin-old-vfx-sfx-vo/bruce-lee-sin-old-vfx-sfx-vo.fantome

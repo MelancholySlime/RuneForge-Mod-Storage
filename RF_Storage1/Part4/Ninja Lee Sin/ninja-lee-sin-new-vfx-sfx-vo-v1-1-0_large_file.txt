@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : ninja-lee-sin-new-vfx-sfx-vo-v1-1-0.fantome
+Mod      : Ninja Lee Sin
+Source   : https://runeforge.dev/mods/ec0aa16e-4035-4300-9cfc-96ea8d39ee01
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/ninja-lee-sin-new-vfx-sfx-vo-v1-1-0/ninja-lee-sin-new-vfx-sfx-vo-v1-1-0.fantome

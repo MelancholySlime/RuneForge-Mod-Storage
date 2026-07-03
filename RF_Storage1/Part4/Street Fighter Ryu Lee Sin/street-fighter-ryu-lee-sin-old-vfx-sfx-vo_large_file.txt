@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : street-fighter-ryu-lee-sin-old-vfx-sfx-vo.fantome
+Mod      : Street Fighter Ryu Lee Sin
+Source   : https://runeforge.dev/mods/b064c463-8e0e-4ee6-a213-d37a0a5596ff
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/street-fighter-ryu-lee-sin-old-vfx-sfx-vo/street-fighter-ryu-lee-sin-old-vfx-sfx-vo.fantome
