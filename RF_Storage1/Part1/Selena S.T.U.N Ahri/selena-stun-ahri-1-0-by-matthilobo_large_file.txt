@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : selena-stun-ahri-1-0-by-matthilobo.fantome
+Mod      : Selena S.T.U.N Ahri
+Source   : https://runeforge.dev/mods/791956da-f56d-490d-95f0-c2dd79dbd925
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/selena-stun-ahri-1-0-by-matthilobo/selena-stun-ahri-1-0-by-matthilobo.fantome
