@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : jinwoo-battle-queen-kata.fantome
+Mod      : Jinwoo Battle Queen Kata
+Source   : https://runeforge.dev/mods/52ea4a24-736a-407f-918f-096b3293ff06
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/jinwoo-battle-queen-kata/jinwoo-battle-queen-kata.fantome
