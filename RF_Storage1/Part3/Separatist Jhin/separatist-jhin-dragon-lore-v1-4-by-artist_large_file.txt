@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : separatist-jhin-dragon-lore-v1-4-by-artist.fantome
+Mod      : Separatist Jhin
+Source   : https://runeforge.dev/mods/84e2fa01-5e02-4c5f-b77c-62d19860d52f
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/separatist-jhin-dragon-lore-v1-4-by-artist/separatist-jhin-dragon-lore-v1-4-by-artist.fantome
