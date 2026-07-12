@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : seraphine-smart-falcon-from-uma-musume-1-0-0.fantome
+Mod      : Smart Falcon Seraphine from Uma Musume Pretty Derby
+Source   : https://runeforge.dev/mods/70a11d45-eddf-4fc2-b367-560543ba64d6
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/seraphine-smart-falcon-from-uma-musume-1-0-0/seraphine-smart-falcon-from-uma-musume-1-0-0.fantome
