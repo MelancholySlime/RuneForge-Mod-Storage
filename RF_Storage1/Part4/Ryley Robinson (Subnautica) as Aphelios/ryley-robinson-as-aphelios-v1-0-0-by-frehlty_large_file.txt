@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : ryley-robinson-as-aphelios-v1-0-0-by-frehlty.fantome
+Mod      : Ryley Robinson (Subnautica) as Aphelios
+Source   : https://runeforge.dev/mods/b2e5cd79-ed28-4885-86e3-cc9920b5d8e4
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/ryley-robinson-as-aphelios-v1-0-0-by-frehlty/ryley-robinson-as-aphelios-v1-0-0-by-frehlty.fantome
