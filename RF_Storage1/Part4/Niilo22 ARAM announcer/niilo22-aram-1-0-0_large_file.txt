@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : niilo22-aram-1-0-0.fantome
+Mod      : Niilo22 ARAM announcer
+Source   : https://runeforge.dev/mods/77befc66-82d3-4e9c-8caf-54a838dc71fd
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/niilo22-aram-1-0-0/niilo22-aram-1-0-0.fantome
