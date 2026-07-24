@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : sionfrank-1-0-0.fantome
+Mod      : Frank Horrigan Sion
+Source   : https://runeforge.dev/mods/d975c819-245b-4820-aa13-a52073e03817
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/sionfrank-1-0-0/sionfrank-1-0-0.fantome
