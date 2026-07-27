@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : yone-vergil-from-devil-may-cry-1-0-0.fantome
+Mod      : Vergil Yone from Devil May Cry V
+Source   : https://runeforge.dev/mods/9dd3984c-0bd0-4f89-beaf-147f50a2403a
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/yone-vergil-from-devil-may-cry-1-0-0/yone-vergil-from-devil-may-cry-1-0-0.fantome
