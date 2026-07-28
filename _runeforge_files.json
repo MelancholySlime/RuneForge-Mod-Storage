@@ -6,7 +6,7 @@
     "RF_Storage1/Part1": 990,
     "RF_Storage1/Part2": 990,
     "RF_Storage1/Part3": 990,
-    "RF_Storage1/Part4": 425
+    "RF_Storage1/Part4": 431
   },
   "files": [
     "RF_Storage1/Part1/2B zaahen/2b-zaahen-v1-00-by-ceerel.fantome",
@@ -1564,6 +1564,7 @@
     "RF_Storage1/Part1/Old Rengar Rebirth/v129-old-rengar-rebirth.fantome",
     "RF_Storage1/Part1/Old Rengar Rebirth/v130-old-rengar-rebirth.fantome",
     "RF_Storage1/Part1/Old Rumble/old-rumble_1.0.0.fantome",
+    "RF_Storage1/Part1/Old Runes VFX/old-runes-vfx-2-0-0.fantome",
     "RF_Storage1/Part1/Old Runes VFX/old-runes-vfx_1.0.0.fantome",
     "RF_Storage1/Part1/Old Spirit Guard Udyr/old-spirit-guard-udyr-1-0-6.fantome",
     "RF_Storage1/Part1/Old Spirit Guard Udyr/old-spirit-guard-udyr-1-0-7.fantome",
@@ -6294,6 +6295,8 @@
     "RF_Storage1/Part4/Dark Matter Genesis Yasuo/dark-matter-by-reza.fantome",
     "RF_Storage1/Part4/Dark Matter Genesis Yasuo/dark-matter.fantome",
     "RF_Storage1/Part4/Dark Star Kassadin/dark-star-kassadin-v1-0-by-p1mek.fantome",
+    "RF_Storage1/Part4/Dark Star Rhaast Announcer (RU)/dark-star-rhaast-announcer-ru-v1-0-0-by-dear-agony.fantome",
+    "RF_Storage1/Part4/Dark Star Rhaast x Dota 2 Killstreaks Announcer/dark-star-rhaast-x-dota-2-killstreaks-announcer-v1-0-0-by-dear-agony.fantome",
     "RF_Storage1/Part4/Dark Star Thresh x Dota 2 Killstreaks Announcer/dark-star-thresh-x-dota-2-killstreaks-announcer-v1-0-0-by-dear-agony.fantome",
     "RF_Storage1/Part4/Dark Star Thresh x Dota 2 Killstreaks Announcer/dark-star-thresh-x-dota-2-killstreaks-announcer-v2-0-0-by-dear-agony.fantome",
     "RF_Storage1/Part4/Dark Star Thresh × Dota 2 Killstreaks Announcer/dark-star-thresh-x-dota-2-killstreaks-announcer-v1-0-0-by-dear-agony.fantome",
@@ -6357,6 +6360,7 @@
     "RF_Storage1/Part4/Firecracker Yuumi Chroma VFX/firecracker-yuumi-chroma-vfx.fantome",
     "RF_Storage1/Part4/Fischl Ashe/fischl-ashe-v1-0-1-by-rorotea.fantome",
     "RF_Storage1/Part4/Fischl Ashe/fischl-ashe.fantome",
+    "RF_Storage1/Part4/Flowery Lee Sin/flowery-lee-sin-by-total-griller.fantome",
     "RF_Storage1/Part4/Fnatic Rengar [Rebirth]/v100-fnatic-rengar.fantome",
     "RF_Storage1/Part4/Fnatic Rengar [Rebirth]/v110-fnatic-rengar.fantome",
     "RF_Storage1/Part4/Frank Horrigan Sion/sion-frank1-0-1.fantome",
@@ -6483,6 +6487,7 @@
     "RF_Storage1/Part4/Lore & Legends Lulu/tft-lulu-set-16_1.0.0.fantome",
     "RF_Storage1/Part4/Lu Bu Jarvan IV + VO/lu-bu-jarvan-iv-1-1-0.fantome",
     "RF_Storage1/Part4/Lu Bu Jarvan IV + VO/lu-bu-jarvaniv-vo-1-1-0.fantome",
+    "RF_Storage1/Part4/Lucian Onyakopon/lucian-onyakopon.fantome",
     "RF_Storage1/Part4/Lucian dante/lucian-dante-v1-0-0-by-ceerel.fantome",
     "RF_Storage1/Part4/Lucy Nilah/lucy-nilah-1-0-by-matthilobo.fantome",
     "RF_Storage1/Part4/Luigi Dealer Twisted Fate/luigi-dealer-tf.fantome",
@@ -6823,6 +6828,7 @@
     "RF_Storage1/Part4/summoner spells icons yassified/image-replacment-summoner-spells-1-0-0.fantome",
     "RF_Storage1/Part4/yassified item sounds for league/league-item-mod-but-sfw-2-1-0.fantome",
     "RF_Storage1/Part4/yassified item sounds for league/league-item-sounds-mod-2-1-0.fantome",
-    "RF_Storage1/Part4/yassified killstreak sounds/killstreak-mod-1-0-0.fantome"
+    "RF_Storage1/Part4/yassified killstreak sounds/killstreak-mod-1-0-0.fantome",
+    "RF_Storage1/Part4/yassified pings mod/yassified-pings-mod-1-0-0.fantome"
   ]
 }
