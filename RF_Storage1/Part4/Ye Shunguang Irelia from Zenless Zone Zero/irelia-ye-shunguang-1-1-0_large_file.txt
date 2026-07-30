@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : irelia-ye-shunguang-1-1-0.fantome
+Mod      : Ye Shunguang Irelia from Zenless Zone Zero
+Source   : https://runeforge.dev/mods/aeb9957f-fb2b-4998-87e3-0f30ebd570e5
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/irelia-ye-shunguang-1-1-0/irelia-ye-shunguang-1-1-0.fantome

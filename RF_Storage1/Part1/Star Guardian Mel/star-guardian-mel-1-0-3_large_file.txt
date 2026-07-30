@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : star-guardian-mel-1-0-3.fantome
+Mod      : Star Guardian Mel
+Source   : https://runeforge.dev/mods/dca21113-202e-4817-99eb-ac060035a0cb
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/star-guardian-mel-1-0-3/star-guardian-mel-1-0-3.fantome
