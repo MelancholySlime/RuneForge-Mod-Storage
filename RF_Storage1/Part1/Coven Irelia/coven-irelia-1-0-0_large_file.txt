@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : coven-irelia-1-0-0.fantome
+Mod      : Coven Irelia
+Source   : https://runeforge.dev/mods/b3f0fd2b-c024-4606-a43f-645092143949
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/coven-irelia-1-0-0/coven-irelia-1-0-0.fantome
