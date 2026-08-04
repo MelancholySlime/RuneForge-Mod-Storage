@@ -6,7 +6,7 @@
     "RF_Storage1/Part1": 990,
     "RF_Storage1/Part2": 990,
     "RF_Storage1/Part3": 990,
-    "RF_Storage1/Part4": 466
+    "RF_Storage1/Part4": 469
   },
   "files": [
     "RF_Storage1/Part1/2B zaahen/2b-zaahen-v1-00-by-ceerel.fantome",
@@ -206,6 +206,8 @@
     "RF_Storage1/Part1/Black Cursor Pack/black-cursor-v1-0-by-p1mek.fantome",
     "RF_Storage1/Part1/Black Loading Screen/black-loadscreen_1524.1.0.fantome",
     "RF_Storage1/Part1/Black Mouse Click/black-mouse-click_1.0.0.fantome",
+    "RF_Storage1/Part1/Black Mouse Click/black-mouse-clicks-v1-0-by-p1mek.fantome",
+    "RF_Storage1/Part1/Black Mouse Click/white-moveclick-v1-0-by-p1mek.fantome",
     "RF_Storage1/Part1/Black and White - Dark Cosmic Lux/black-and-white-dark-cosmic-lux-by-sinister.fantome",
     "RF_Storage1/Part1/Black and White - Dark Cosmic Lux/black-and-white-dc-lux.fantome",
     "RF_Storage1/Part1/Black and White - Dark Cosmic Lux/black-and-white-dk-lux.fantome",
@@ -1985,6 +1987,7 @@
     "RF_Storage1/Part1/Shyvana - Yuumadin/shyv-yuumadin.fantome",
     "RF_Storage1/Part1/Simon Henriksson over Jhin/jhin_1.0.0.fantome",
     "RF_Storage1/Part1/Simon Henriksson over Jhin/jhin_1.1.1_large_file.txt",
+    "RF_Storage1/Part1/Simon Henriksson over Jhin/simon-henriksson-2-0-1-0-0_large_file.txt",
     "RF_Storage1/Part1/Simple Cursor/cursor-simple-v1-1-0-by-aropatnik.fantome",
     "RF_Storage1/Part1/Simple Cursor/simple-cursor_1.0.0.fantome",
     "RF_Storage1/Part1/Simple Health Bar Colors/Simple Health Bar Colors by Moga v16.1.1.4.13.fantome",
@@ -6579,6 +6582,7 @@
     "RF_Storage1/Part4/MinecraftXP & Dragon Flash Z/minecraft-xp-and-dragon-flash.fantome",
     "RF_Storage1/Part4/Miss Fortune - Ruined King/ruined-king-miss-fortune.fantome",
     "RF_Storage1/Part4/Miss Fortune Nami (Christmas Edition)/miss-fortune-nami-christmas-edition.fantome",
+    "RF_Storage1/Part4/Miss Fortune White Queen/miss-fortune-white-queen.fantome",
     "RF_Storage1/Part4/Mona Nami from Genshin Impact/nami-mona-from-genshin-impact-1-2-0.fantome",
     "RF_Storage1/Part4/Monochrome Smolder/monochrome-smolder.fantome",
     "RF_Storage1/Part4/Mordekaiser - Reforged Horizonbound/mordekaiser-reforged-horizonbound-v1-0-0-by-aryas-demise.fantome",
