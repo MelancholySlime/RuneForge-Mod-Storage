@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : invisible-woman-karma-1-0-by-matthilobo.fantome
+Mod      : Invisible Woman Karma
+Source   : https://runeforge.dev/mods/ca053cde-9656-469b-9f74-624d5238f998
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/invisible-woman-karma-1-0-by-matthilobo/invisible-woman-karma-1-0-by-matthilobo.fantome
