@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : aatrox-old-by-scrafty.fantome
+Mod      : Old Aatrox
+Source   : https://runeforge.dev/mods/c894212b-2dcc-4bcb-b9b7-c5f651290788
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/aatrox-old-by-scrafty/aatrox-old-by-scrafty.fantome

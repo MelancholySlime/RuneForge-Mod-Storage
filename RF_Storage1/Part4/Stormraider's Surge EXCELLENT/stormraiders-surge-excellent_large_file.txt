@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : stormraiders-surge-excellent.fantome
+Mod      : Stormraider's Surge EXCELLENT
+Source   : https://runeforge.dev/mods/d23fd35e-5cb6-411c-801e-5c8e7ab57874
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/stormraiders-surge-excellent/stormraiders-surge-excellent.fantome
