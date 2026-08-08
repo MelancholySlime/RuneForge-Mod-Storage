@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : invisible-woman-life-fantastic-karma-1-0-by-matthilobo.fantome
+Mod      : Invisible Woman Karma (The Life Fantastic)
+Source   : https://runeforge.dev/mods/598671be-5661-4120-b3af-fc70521a8ed3
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/invisible-woman-life-fantastic-karma-1-0-by-matthilobo/invisible-woman-life-fantastic-karma-1-0-by-matthilobo.fantome
