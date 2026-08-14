@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : briar-mambo-1-0-0.fantome
+Mod      : Mambo Briar
+Source   : https://runeforge.dev/mods/aec34f6d-b82a-45cf-b4ef-ce68761af527
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/briar-mambo-1-0-0/briar-mambo-1-0-0.fantome

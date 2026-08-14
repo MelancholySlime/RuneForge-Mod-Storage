@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : t1-katarina-v1-0-0-by-p1mek.fantome
+Mod      : T1 Katarina
+Source   : https://runeforge.dev/mods/801fb568-4c41-4fa9-9f0a-847e13b9c9dc
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/t1-katarina-v1-0-0-by-p1mek/t1-katarina-v1-0-0-by-p1mek.fantome
