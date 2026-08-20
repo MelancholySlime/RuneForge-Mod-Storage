@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : ahri-shikimori.fantome
+Mod      : Ahri Shikimori
+Source   : https://runeforge.dev/mods/3c033c73-9ce1-41bb-a63c-0e25240247e0
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/ahri-shikimori/ahri-shikimori.fantome
