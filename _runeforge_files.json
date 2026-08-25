@@ -6,7 +6,7 @@
     "RF_Storage1/Part1": 990,
     "RF_Storage1/Part2": 990,
     "RF_Storage1/Part3": 990,
-    "RF_Storage1/Part4": 569
+    "RF_Storage1/Part4": 574
   },
   "files": [
     "RF_Storage1/Part1/2B zaahen/2b-zaahen-v1-00-by-ceerel.fantome",
@@ -2673,6 +2673,7 @@
     "RF_Storage1/Part2/2B Katarina from Nier Automata/2-b-katarina-from-nier-automata_1.1.2_large_file.txt",
     "RF_Storage1/Part2/2B Katarina from Nier Automata/2-b-katarina-from-nier-automata_1.1.3_large_file.txt",
     "RF_Storage1/Part2/2B Katarina from Nier Automata/2-b-katarina-from-nier-automata_1.1.4_large_file.txt",
+    "RF_Storage1/Part2/2B Katarina from Nier Automata/katarina-2b-from-nier-automata-1-0-0.fantome",
     "RF_Storage1/Part2/3 spikes Nightbringer Yuumi Antenna/yuumi-antenna_1.0.0.fantome",
     "RF_Storage1/Part2/7-4 PARRY WITHOUT REASON/7-4-parry-without-reason_1.0.0.fantome",
     "RF_Storage1/Part2/A Collection of Emotes/a-collection-of-emotes_1.0.0.fantome",
@@ -6036,6 +6037,7 @@
     "RF_Storage1/Part3/Traditional Evelynn/traditional-evelynn_1.0.0.fantome",
     "RF_Storage1/Part3/Traditional Fiora/traditional-fiora_1.0.0.fantome",
     "RF_Storage1/Part3/Traditional Galio/traditional-galio_1.0.0.fantome",
+    "RF_Storage1/Part3/Traditional Kayle/traditional-kayle-v2-0-0-by-aryas-demise.fantome",
     "RF_Storage1/Part3/Traditional Kayle/traditional-kayle_1.0.0.fantome",
     "RF_Storage1/Part3/Traditional Leblanc/traditional-leblanc_1.0.0.fantome",
     "RF_Storage1/Part3/Traditional Leblanc/traditional-leblanc_1.0.1.fantome",
@@ -6430,6 +6432,7 @@
     "RF_Storage1/Part4/Dialyn Qiyana/dialyn-qiyana-v1-0-0-by-rorotea.fantome",
     "RF_Storage1/Part4/Diana Shikimori/diana-shikimori.fantome",
     "RF_Storage1/Part4/Disable Honor Recall/disable-honor-recall.fantome",
+    "RF_Storage1/Part4/Dota 2 Lane Creeps/dota-2-lane-creeps-v1-0-0-by-dear-agony.fantome",
     "RF_Storage1/Part4/Dragonslayer Kayle Chroma VFX/dragonslayer-kayle-chroma-vfx.fantome",
     "RF_Storage1/Part4/Dream Kingdoms Seraphine/dream-kingdoms-seraphine-v1-3-by-lordks-op.fantome",
     "RF_Storage1/Part4/Dreamybull Announcer/dreamybull-announcer-v1-1-by-haigblo.fantome",
@@ -6564,6 +6567,7 @@
     "RF_Storage1/Part4/Israeli New Shekel Gold/shekel-gold-v1-0-0-by-bud.fantome",
     "RF_Storage1/Part4/Itachi Zed/itachi-zed-1-0-by-matthilobo_large_file.txt",
     "RF_Storage1/Part4/Itachi Zed/itachi-zed-1-1-by-matthilobo_large_file.txt",
+    "RF_Storage1/Part4/Jahrein Darius/jahrein-darius-v1-0-0-by-yigit-vercetti_large_file.txt",
     "RF_Storage1/Part4/Jahrein Darius/jahrein-darius.fantome",
     "RF_Storage1/Part4/Janitor Mordekaiser/janitor-mordekaiser.fantome",
     "RF_Storage1/Part4/Jarvan Huggy/jarvan-huggy.fantome",
@@ -6885,6 +6889,7 @@
     "RF_Storage1/Part4/Queen of Pain Announcer × Dota 2 Killstreaks/queen-of-pain-announcer-x-dota-2-killstreaks-v2-0-0-by-dear-agony.fantome",
     "RF_Storage1/Part4/Rage of the Dark Wood Volibear/dark-wood-volibear-v1-0-0-by-aryas-demise.fantome",
     "RF_Storage1/Part4/Ranked Borders S3 V1 0 0 By Aropatnik/ranked-borders-s3-v1-0-0-by-aropatnik.fantome",
+    "RF_Storage1/Part4/RanniGwenRetexture/ranni-gwen-retexture.fantome",
     "RF_Storage1/Part4/Red Dragon Lee Sin/red-dragon-lee-sin-v1-0-0-by-oaed-skins.fantome",
     "RF_Storage1/Part4/Redsteel Kayn Chroma/redsteel-kayn-v1-5-0-by-lkss.fantome",
     "RF_Storage1/Part4/Redsteel Kayn Chroma/redsteel-kayn-v1-6-0-by-lkss.fantome",
@@ -7066,6 +7071,7 @@
     "RF_Storage1/Part4/Zenitsu Yone from Demon Slayer  Kimetsu no Yaiba/yasuo-zenitsu-from-demon-slayer-kimetsu-no-yaiba-1-0-0.fantome",
     "RF_Storage1/Part4/Zeraora Master Yi/zeraora-master-yi-v1-0-0-by-nyht.fantome",
     "RF_Storage1/Part4/Zilean - Lore & Legends/lore-and-legends-zilean.fantome",
+    "RF_Storage1/Part4/Zoe Lily Lovebraids/zoe-lily-lovebraids.fantome",
     "RF_Storage1/Part4/Zoé Mukuro/zoe-mukuro.fantome",
     "RF_Storage1/Part4/classic Katarina   iconic model/katarinaog-wad-client-by-unknown.fantome",
     "RF_Storage1/Part4/classic Katarina   iconic model/mykatdone-wad-client-by-unknown.fantome",
@@ -7090,6 +7096,7 @@
     "RF_Storage1/Part4/yassified item sounds for league/league-item-mod-but-sfw-2-1-0.fantome",
     "RF_Storage1/Part4/yassified item sounds for league/league-item-sounds-mod-2-1-0.fantome",
     "RF_Storage1/Part4/yassified killstreak sounds/killstreak-mod-1-0-0.fantome",
+    "RF_Storage1/Part4/yassified pings mod/yassified-pings-mod-1-0-0-no-store-close.fantome",
     "RF_Storage1/Part4/yassified pings mod/yassified-pings-mod-1-0-0.fantome"
   ]
 }

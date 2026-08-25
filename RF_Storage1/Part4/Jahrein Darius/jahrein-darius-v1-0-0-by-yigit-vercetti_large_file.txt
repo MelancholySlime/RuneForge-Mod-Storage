@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : jahrein-darius-v1-0-0-by-yigit-vercetti.fantome
+Mod      : Jahrein Darius
+Source   : https://runeforge.dev/mods/402c0d98-38c3-4da7-99ed-2ebcc4e8465c
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/jahrein-darius-v1-0-0-by-yigit-vercetti/jahrein-darius-v1-0-0-by-yigit-vercetti.fantome
