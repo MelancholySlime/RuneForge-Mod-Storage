@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : sr-shrek-rift-v26-17-0-by-aropatnik.fantome
+Mod      : Shrek Rift Reborn
+Source   : https://runeforge.dev/mods/a4c9f3a9-8ce6-4c05-bc90-2763bb344476
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/sr-shrek-rift-v26-17-0-by-aropatnik/sr-shrek-rift-v26-17-0-by-aropatnik.fantome
