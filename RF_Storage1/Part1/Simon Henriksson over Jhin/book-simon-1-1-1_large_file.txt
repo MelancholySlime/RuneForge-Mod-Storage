@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : book-simon-1-1-1.fantome
+Mod      : Simon Henriksson over Jhin
+Source   : https://runeforge.dev/mods/2c5ef2e6-3c7e-4669-80ab-34bc5733aea3
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/book-simon-1-1-1/book-simon-1-1-1.fantome
