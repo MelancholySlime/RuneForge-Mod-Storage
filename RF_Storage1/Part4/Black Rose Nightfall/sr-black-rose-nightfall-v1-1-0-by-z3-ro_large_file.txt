@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : sr-black-rose-nightfall-v1-1-0-by-z3-ro.fantome
+Mod      : Black Rose Nightfall
+Source   : https://runeforge.dev/mods/825a7fa8-7c57-41b2-91fa-46cdbb9519b5
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/sr-black-rose-nightfall-v1-1-0-by-z3-ro/sr-black-rose-nightfall-v1-1-0-by-z3-ro.fantome
