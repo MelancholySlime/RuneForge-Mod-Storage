@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : rappa-akali-v2-2-2-by-rorotea.fantome
+Mod      : Rappa Akali
+Source   : https://runeforge.dev/mods/15cb2f52-bb5c-48cf-862d-36997af88fc1
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/rappa-akali-v2-2-2-by-rorotea/rappa-akali-v2-2-2-by-rorotea.fantome
