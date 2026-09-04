@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : youmu-yone-1-1-2.fantome
+Mod      : Youmu Yone
+Source   : https://runeforge.dev/mods/d5db1a91-78a8-4fec-b590-b7bb401dc38f
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/youmu-yone-1-1-2/youmu-yone-1-1-2.fantome

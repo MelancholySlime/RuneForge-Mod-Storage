@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : silverwolf-leesin-3-2-2.fantome
+Mod      : SilverWolf LeeSin
+Source   : https://runeforge.dev/mods/b1eb405f-4221-4c51-97eb-186a47f7bf3f
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/silverwolf-leesin-3-2-2/silverwolf-leesin-3-2-2.fantome

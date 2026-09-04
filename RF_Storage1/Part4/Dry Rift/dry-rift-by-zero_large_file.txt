@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : dry-rift-by-zero.fantome
+Mod      : Dry Rift
+Source   : https://runeforge.dev/mods/907e2adb-dd66-48f2-b10d-20e64847307c
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/dry-rift-by-zero/dry-rift-by-zero.fantome
