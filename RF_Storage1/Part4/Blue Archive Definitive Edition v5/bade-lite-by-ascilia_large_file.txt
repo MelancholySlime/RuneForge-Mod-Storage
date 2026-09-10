@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : bade-lite-by-ascilia.fantome
+Mod      : Blue Archive Definitive Edition v5
+Source   : https://runeforge.dev/mods/f1ebe19e-103a-488b-9a20-e023a997067a
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/bade-lite-by-ascilia/bade-lite-by-ascilia.fantome
