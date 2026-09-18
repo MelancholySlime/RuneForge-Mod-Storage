@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : winter-rift2025-night-16-18-0.fantome
+Mod      : Winter Rift 2025 - Night
+Source   : https://runeforge.dev/mods/1cb0236b-1d53-46d1-847b-df1223f378fd
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/winter-rift2025-night-16-18-0/winter-rift2025-night-16-18-0.fantome
