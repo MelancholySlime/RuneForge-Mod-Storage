@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : zaahen-arlong.fantome
+Mod      : Zaahen Arlong
+Source   : https://runeforge.dev/mods/8d259120-0bc6-4f3d-8459-12a364c608cd
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/zaahen-arlong/zaahen-arlong.fantome
