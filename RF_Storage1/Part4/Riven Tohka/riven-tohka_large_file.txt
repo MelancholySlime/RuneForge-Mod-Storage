@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : riven-tohka.fantome
+Mod      : Riven Tohka
+Source   : https://runeforge.dev/mods/ddd21e03-61af-40cc-b6b6-646891a80d46
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/riven-tohka/riven-tohka.fantome
