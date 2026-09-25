@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : classic-rift-halloween-16-19-0.fantome
+Mod      : Classic Rift - Harrowing
+Source   : https://runeforge.dev/mods/7efa1b40-e522-4ff0-8614-5a188936440d
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/classic-rift-halloween-16-19-0/classic-rift-halloween-16-19-0.fantome
