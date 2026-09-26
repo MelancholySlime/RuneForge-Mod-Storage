@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : cinderella-seraphine-1-0-0.fantome
+Mod      : Cinderella Seraphine
+Source   : https://runeforge.dev/mods/5dbb46c0-e40d-431e-bb34-664dda1dbe77
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/cinderella-seraphine-1-0-0/cinderella-seraphine-1-0-0.fantome

@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : zhuxin-mel-1-0-0.fantome
+Mod      : Zhuxin Mel
+Source   : https://runeforge.dev/mods/89347057-e81c-4b19-bc8a-1babca8a5628
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/zhuxin-mel-1-0-0/zhuxin-mel-1-0-0.fantome

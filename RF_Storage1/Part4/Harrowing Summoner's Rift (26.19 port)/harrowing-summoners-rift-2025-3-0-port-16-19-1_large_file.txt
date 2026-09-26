@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : harrowing-summoners-rift-2025-3-0-port-16-19-1.fantome
+Mod      : Harrowing Summoner's Rift (26.19 port)
+Source   : https://runeforge.dev/mods/037703e7-25d2-4d09-bf4a-f598c0a834c1
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/harrowing-summoners-rift-2025-3-0-port-16-19-1/harrowing-summoners-rift-2025-3-0-port-16-19-1.fantome

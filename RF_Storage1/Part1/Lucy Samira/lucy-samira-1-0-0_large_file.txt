@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : lucy-samira-1-0-0.fantome
+Mod      : Lucy Samira
+Source   : https://runeforge.dev/mods/d083b9ae-5f2b-41aa-9939-28bccd860ca3
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/lucy-samira-1-0-0/lucy-samira-1-0-0.fantome

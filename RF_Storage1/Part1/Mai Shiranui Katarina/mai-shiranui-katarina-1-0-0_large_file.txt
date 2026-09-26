@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : mai-shiranui-katarina-1-0-0.fantome
+Mod      : Mai Shiranui Katarina
+Source   : https://runeforge.dev/mods/947d2b48-10c3-409c-9de8-c4379c8a285f
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/mai-shiranui-katarina-1-0-0/mai-shiranui-katarina-1-0-0.fantome
