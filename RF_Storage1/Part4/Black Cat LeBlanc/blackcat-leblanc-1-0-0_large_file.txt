@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : blackcat-leblanc-1-0-0.fantome
+Mod      : Black Cat LeBlanc
+Source   : https://runeforge.dev/mods/3df6c649-a49c-453c-8ae9-d0b05b984368
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/blackcat-leblanc-1-0-0/blackcat-leblanc-1-0-0.fantome
