@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : spirit-blossom-rift-bloom-0-1-2.fantome
+Mod      : Spirit Blossom Rift
+Source   : https://runeforge.dev/mods/4a845833-1af4-4664-82f1-4f6179e5165f
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/spirit-blossom-rift-bloom-0-1-2/spirit-blossom-rift-bloom-0-1-2.fantome

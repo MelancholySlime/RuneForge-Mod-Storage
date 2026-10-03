@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : winter-rift-2025-0-3-0.fantome
+Mod      : Winter Rift 2025
+Source   : https://runeforge.dev/mods/40919282-db19-4aee-87b0-b48906307423
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/winter-rift-2025-0-3-0/winter-rift-2025-0-3-0.fantome
