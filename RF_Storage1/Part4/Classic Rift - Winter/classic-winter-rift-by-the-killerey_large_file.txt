@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : classic-winter-rift-by-the-killerey.fantome
+Mod      : Classic Rift - Winter
+Source   : https://runeforge.dev/mods/a376bae0-cf7a-41e1-83cf-7eb2f751c688
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/classic-winter-rift-by-the-killerey/classic-winter-rift-by-the-killerey.fantome
