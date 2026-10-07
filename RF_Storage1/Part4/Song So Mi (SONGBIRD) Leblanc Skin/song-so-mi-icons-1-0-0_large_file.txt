@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : song-so-mi-icons-1-0-0.fantome
+Mod      : Song So Mi (SONGBIRD) Leblanc Skin
+Source   : https://runeforge.dev/mods/97a5dd20-d8eb-4d7a-a866-42e048475b51
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/song-so-mi-icons-1-0-0/song-so-mi-icons-1-0-0.fantome

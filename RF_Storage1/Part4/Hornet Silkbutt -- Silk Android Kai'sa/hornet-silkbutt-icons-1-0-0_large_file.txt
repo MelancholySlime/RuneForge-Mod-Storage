@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : hornet-silkbutt-icons-1-0-0.fantome
+Mod      : Hornet Silkbutt -- Silk Android Kai'sa
+Source   : https://runeforge.dev/mods/719a9cb0-d829-4615-8569-1074122ff9a8
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/hornet-silkbutt-icons-1-0-0/hornet-silkbutt-icons-1-0-0.fantome

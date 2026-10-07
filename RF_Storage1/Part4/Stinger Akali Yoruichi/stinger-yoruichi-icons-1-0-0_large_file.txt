@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : stinger-yoruichi-icons-1-0-0.fantome
+Mod      : Stinger Akali Yoruichi
+Source   : https://runeforge.dev/mods/f116e6c2-150a-4ed8-bca2-40017f3a7471
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/stinger-yoruichi-icons-1-0-0/stinger-yoruichi-icons-1-0-0.fantome
