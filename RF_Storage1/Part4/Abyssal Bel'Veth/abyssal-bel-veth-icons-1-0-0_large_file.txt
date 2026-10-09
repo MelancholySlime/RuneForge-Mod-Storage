@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : abyssal-bel-veth-icons-1-0-0.fantome
+Mod      : Abyssal Bel'Veth
+Source   : https://runeforge.dev/mods/f40cfc6a-dfb8-4366-aa02-097ba75a9671
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/abyssal-bel-veth-icons-1-0-0/abyssal-bel-veth-icons-1-0-0.fantome
