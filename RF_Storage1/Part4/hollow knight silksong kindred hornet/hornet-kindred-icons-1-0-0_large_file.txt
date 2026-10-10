@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : hornet-kindred-icons-1-0-0.fantome
+Mod      : hollow knight silksong kindred hornet
+Source   : https://runeforge.dev/mods/cb131904-609b-431f-8b8c-1e4b39d87192
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/hornet-kindred-icons-1-0-0/hornet-kindred-icons-1-0-0.fantome
