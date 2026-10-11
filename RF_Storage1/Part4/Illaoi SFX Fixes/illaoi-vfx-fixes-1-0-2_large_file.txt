@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : illaoi-vfx-fixes-1-0-2.fantome
+Mod      : Illaoi SFX Fixes
+Source   : https://runeforge.dev/mods/31bcb0ed-cccb-48ab-819d-f589c0416146
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/illaoi-vfx-fixes-1-0-2/illaoi-vfx-fixes-1-0-2.fantome
