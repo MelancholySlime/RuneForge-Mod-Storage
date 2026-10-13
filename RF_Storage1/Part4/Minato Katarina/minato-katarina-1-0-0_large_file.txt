@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : minato-katarina-1-0-0.fantome
+Mod      : Minato Katarina
+Source   : https://runeforge.dev/mods/d9bf6e38-9345-457f-a6f1-363e5e9442c0
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/minato-katarina-1-0-0/minato-katarina-1-0-0.fantome
