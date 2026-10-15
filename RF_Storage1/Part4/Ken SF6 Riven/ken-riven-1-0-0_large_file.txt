@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : ken-riven-1-0-0.fantome
+Mod      : Ken SF6 Riven
+Source   : https://runeforge.dev/mods/1bd47215-0050-4cbc-adea-859353106968
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/ken-riven-1-0-0/ken-riven-1-0-0.fantome
