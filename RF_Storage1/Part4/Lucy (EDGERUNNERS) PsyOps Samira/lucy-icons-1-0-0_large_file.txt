@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : lucy-icons-1-0-0.fantome
+Mod      : Lucy (EDGERUNNERS) PsyOps Samira
+Source   : https://runeforge.dev/mods/370277de-7bf1-477a-9b4e-497c860c93c6
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/lucy-icons-1-0-0/lucy-icons-1-0-0.fantome
