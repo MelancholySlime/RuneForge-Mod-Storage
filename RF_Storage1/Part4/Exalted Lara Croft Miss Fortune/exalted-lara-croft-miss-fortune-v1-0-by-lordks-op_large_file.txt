@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : exalted-lara-croft-miss-fortune-v1-0-by-lordks-op.fantome
+Mod      : Exalted Lara Croft Miss Fortune
+Source   : https://runeforge.dev/mods/98ebfeba-8691-44ee-b08e-14d5000acd5c
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/exalted-lara-croft-miss-fortune-v1-0-by-lordks-op/exalted-lara-croft-miss-fortune-v1-0-by-lordks-op.fantome
