@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : mundo-krieg-v-1-2-8.fantome
+Mod      : Krieg The Psycho Dr.Mundo
+Source   : https://runeforge.dev/mods/e82eaad5-524e-40b3-911c-3b766ce13991
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/mundo-krieg-v-1-2-8/mundo-krieg-v-1-2-8.fantome
