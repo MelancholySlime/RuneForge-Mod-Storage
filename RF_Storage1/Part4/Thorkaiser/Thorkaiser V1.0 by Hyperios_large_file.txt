@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : Thorkaiser V1.0 by Hyperios.fantome
+Mod      : Thorkaiser
+Source   : https://runeforge.dev/mods/f8b8ed0f-3cdd-43b2-b3a8-6cebd8806be9
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/Thorkaiser_V1.0_by_Hyperios/Thorkaiser.V1.0.by.Hyperios.fantome
