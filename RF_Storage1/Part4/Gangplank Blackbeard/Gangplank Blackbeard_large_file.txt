@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : Gangplank Blackbeard.fantome
+Mod      : Gangplank Blackbeard
+Source   : https://runeforge.dev/mods/c398fd49-91e7-4854-8b5f-d0e95d84a0ea
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/Gangplank_Blackbeard/Gangplank.Blackbeard.fantome

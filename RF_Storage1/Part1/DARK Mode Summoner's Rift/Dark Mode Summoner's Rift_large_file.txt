@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : Dark Mode Summoner's Rift.fantome
+Mod      : DARK Mode Summoner's Rift
+Source   : https://runeforge.dev/mods/b15f1101-57ce-4bfc-bcc1-10d9f5fb5452
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/Dark_Mode_Summoner_s_Rift/Dark.Mode.Summoner.s.Rift.fantome
