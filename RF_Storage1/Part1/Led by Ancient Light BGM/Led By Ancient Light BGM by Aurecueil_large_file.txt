@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : Led By Ancient Light BGM by Aurecueil.fantome
+Mod      : Led by Ancient Light BGM
+Source   : https://runeforge.dev/mods/2f5fb737-2835-431a-accd-d6cdc85b8729
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/Led_By_Ancient_Light_BGM_by_Aurecueil/Led.By.Ancient.Light.BGM.by.Aurecueil.fantome
