@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : SR Cursed Rift V1.1.0 by Aropatnik.fantome
+Mod      : Cursed Rift
+Source   : https://runeforge.dev/mods/93e302de-7bf5-455b-a6c6-f2034d0f1a5a
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/SR_Cursed_Rift_V1.1.0_by_Aropatnik/SR.Cursed.Rift.V1.1.0.by.Aropatnik.fantome
