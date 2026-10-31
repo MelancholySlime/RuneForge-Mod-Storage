@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : OldSR_V2_Unbound_16.18.1.fantome
+Mod      : Old Summoners Rift V3 - Unbound
+Source   : https://runeforge.dev/mods/e6174a41-7213-47e2-b124-6409cfc8383e
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/OldSR_V2_Unbound_16.18.1/OldSR_V2_Unbound_16.18.1.fantome

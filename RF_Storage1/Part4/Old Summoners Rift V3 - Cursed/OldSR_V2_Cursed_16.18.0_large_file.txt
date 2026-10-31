@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : OldSR_V2_Cursed_16.18.0.fantome
+Mod      : Old Summoners Rift V3 - Cursed
+Source   : https://runeforge.dev/mods/d28c3912-989c-43d0-82c6-a5c19b43e723
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/OldSR_V2_Cursed_16.18.0/OldSR_V2_Cursed_16.18.0.fantome

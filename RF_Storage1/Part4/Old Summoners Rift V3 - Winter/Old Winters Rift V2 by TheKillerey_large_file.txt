@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : Old Winters Rift V2 by TheKillerey.fantome
+Mod      : Old Summoners Rift V3 - Winter
+Source   : https://runeforge.dev/mods/3377b940-375f-434f-beb0-5c24a2bf0903
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/Old_Winters_Rift_V2_by_TheKillerey/Old.Winters.Rift.V2.by.TheKillerey.fantome

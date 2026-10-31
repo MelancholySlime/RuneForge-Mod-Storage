@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : ClassicRiftWinter_16.21.1.fantome
+Mod      : Classic Rift - Winter
+Source   : https://runeforge.dev/mods/a376bae0-cf7a-41e1-83cf-7eb2f751c688
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/ClassicRiftWinter_16.21.1/ClassicRiftWinter_16.21.1.fantome
