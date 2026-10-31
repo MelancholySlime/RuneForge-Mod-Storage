@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : Iori Yagami Riven - 1.5 (by matthilobo)_[1.0.5].fantome
+Mod      : Iori Yagami Riven
+Source   : https://runeforge.dev/mods/9ca41a1d-cda4-4eba-bff1-57934e2c9635
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/Iori_Yagami_Riven_-_1.5__by_matthilobo___1.0.5_/Iori.Yagami.Riven.-.1.5.by.matthilobo._.1.0.5.fantome
