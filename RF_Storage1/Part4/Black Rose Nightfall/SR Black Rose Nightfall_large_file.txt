@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : SR Black Rose Nightfall.fantome
+Mod      : Black Rose Nightfall
+Source   : https://runeforge.dev/mods/825a7fa8-7c57-41b2-91fa-46cdbb9519b5
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/SR_Black_Rose_Nightfall/SR.Black.Rose.Nightfall.fantome

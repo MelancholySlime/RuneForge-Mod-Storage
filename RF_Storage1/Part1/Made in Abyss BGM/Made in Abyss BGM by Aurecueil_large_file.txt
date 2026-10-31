@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : Made in Abyss BGM by Aurecueil.fantome
+Mod      : Made in Abyss BGM
+Source   : https://runeforge.dev/mods/f6e9ef4a-d3bf-4743-bc97-1bc1cf8e3170
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/Made_in_Abyss_BGM_by_Aurecueil/Made.in.Abyss.BGM.by.Aurecueil.fantome
