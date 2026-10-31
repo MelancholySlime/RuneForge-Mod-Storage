@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![RuneForge Mod-Storage Banner](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/main/banner.png)
+![RuneForge Mod-Storage Banner](https://raw.githubusercontent.com/MelancholySlime/RuneForge-Mod-Storage/refs/heads/main/banner.png)
 
 #  RuneForge Mod Storage
 
