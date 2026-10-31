@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : Project Twitch V1.0 by p1mek_[4.0.0].fantome
+Mod      : Project Twitch
+Source   : https://runeforge.dev/mods/50df55bd-659c-453f-ba26-b705db4ab564
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/Project_Twitch_V1.0_by_p1mek__4.0.0_/Project.Twitch.V1.0.by.p1mek_.4.0.0.fantome

@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : Byakuya Yasuo - 1.0 (by matthilobo)_[1.0.0].fantome
+Mod      : Byakuya Yasuo
+Source   : https://runeforge.dev/mods/a1fa9d77-0dcc-47a8-ae0c-f50e737b8623
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/Byakuya_Yasuo_-_1.0__by_matthilobo___1.0.0_/Byakuya.Yasuo.-.1.0.by.matthilobo._.1.0.0.fantome

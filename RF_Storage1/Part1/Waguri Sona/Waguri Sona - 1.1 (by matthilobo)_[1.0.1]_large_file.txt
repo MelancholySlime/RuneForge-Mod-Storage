@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : Waguri Sona - 1.1 (by matthilobo)_[1.0.1].fantome
+Mod      : Waguri Sona
+Source   : https://runeforge.dev/mods/08b09648-c112-4a51-92f8-1880d25790a5
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/Waguri_Sona_-_1.1__by_matthilobo___1.0.1_/Waguri.Sona.-.1.1.by.matthilobo._.1.0.1.fantome
