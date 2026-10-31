@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : minato-shen_1.0.0_[1.0.1].fantome
+Mod      : Minato Shen
+Source   : https://runeforge.dev/mods/f0bc96fe-9db1-42d6-b5ca-2b5488fab044
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/minato-shen_1.0.0__1.0.1_/minato-shen_1.0.0_.1.0.1.fantome

@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : Stellar Blade BGM by Aurecueil_[16.6.0].fantome
+Mod      : Stellar Blade BGM
+Source   : https://runeforge.dev/mods/ee07351f-0f6b-4613-838a-f46bdfc73ee7
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/Stellar_Blade_BGM_by_Aurecueil__16.6.0_/Stellar.Blade.BGM.by.Aurecueil_.16.6.0.fantome
