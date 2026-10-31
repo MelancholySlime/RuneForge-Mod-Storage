@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : Akshan dances by EL7OOT.fantome
+Mod      : Akahan Dances
+Source   : https://runeforge.dev/mods/4d5f96d7-eaf8-49e0-85a1-a526a15df301
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/Akshan_dances_by_EL7OOT/Akshan.dances.by.EL7OOT.fantome
