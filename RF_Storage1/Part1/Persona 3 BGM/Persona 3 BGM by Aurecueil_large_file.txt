@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : Persona 3 BGM by Aurecueil.fantome
+Mod      : Persona 3 BGM
+Source   : https://runeforge.dev/mods/a263fe5b-a940-452b-a101-20ade721b142
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/Persona_3_BGM_by_Aurecueil/Persona.3.BGM.by.Aurecueil.fantome
