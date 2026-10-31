@@ -39,7 +39,7 @@ jobs:
       - name: Initialize Scraper Service
         env:
           GITHUB_WORKSPACE: ${{ github.workspace }}
-          NOT_NEW_SCRAPER_SCRIPT: ${{ secrets.NEW_V1 }}
+          NOT_NEW_SCRAPER_SCRIPT: ${{ secrets.NEW_V2 }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           echo "runeforge_auto.py" >> .gitignore
