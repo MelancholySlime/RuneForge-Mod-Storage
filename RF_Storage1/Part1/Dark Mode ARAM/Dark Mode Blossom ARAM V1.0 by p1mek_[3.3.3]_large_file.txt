@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : Dark Mode Blossom ARAM V1.0 by p1mek_[3.3.3].fantome
+Mod      : Dark Mode ARAM
+Source   : https://runeforge.dev/mods/fb091ee3-ea53-46d4-a00e-c3138fbc26aa
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/Dark_Mode_Blossom_ARAM_V1.0_by_p1mek__3.3.3_/Dark.Mode.Blossom.ARAM.V1.0.by.p1mek_.3.3.3.fantome

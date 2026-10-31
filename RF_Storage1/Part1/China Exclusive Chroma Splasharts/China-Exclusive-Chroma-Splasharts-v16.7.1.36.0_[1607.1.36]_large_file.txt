@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : China-Exclusive-Chroma-Splasharts-v16.7.1.36.0_[1607.1.36].fantome
+Mod      : China Exclusive Chroma Splasharts
+Source   : https://runeforge.dev/mods/14b96746-ece6-4259-8ef3-02b3fde87c12
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/China-Exclusive-Chroma-Splasharts-v16.7.1.36.0__1607.1.36_/China-Exclusive-Chroma-Splasharts-v16.7.1.36.0_.1607.1.36.fantome
