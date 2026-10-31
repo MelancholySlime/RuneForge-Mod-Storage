@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : strawberry_1.0.1.fantome
+Mod      : strawberry hud
+Source   : https://runeforge.dev/mods/dcaeeb94-bb8a-4e0c-9777-cbe68632cd64
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/strawberry_1.0.1/strawberry_1.0.1.fantome
