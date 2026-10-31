@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : Winter Rift 2025 by TheKillerey_[16.7.0].fantome
+Mod      : Winter Rift 2025 (Season 25 Version)
+Source   : https://runeforge.dev/mods/2670ebf6-a65b-4d84-b4ba-32b33b71913f
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/Winter_Rift_2025_by_TheKillerey__16.7.0_/Winter.Rift.2025.by.TheKillerey_.16.7.0.fantome

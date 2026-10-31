@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : Rift of the Unbound by TheKillerey_[16.14.0].fantome
+Mod      : Rift of the Unbound
+Source   : https://runeforge.dev/mods/9e6292bc-b17f-437b-b817-09579e27a30a
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/Rift_of_the_Unbound_by_TheKillerey__16.14.0_/Rift.of.the.Unbound.by.TheKillerey_.16.14.0.fantome

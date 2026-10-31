@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : Old Summoners Rift V2 by TheKillerey_[16.9.0].fantome
+Mod      : Old Summoners Rift V3 - Day
+Source   : https://runeforge.dev/mods/3996c181-23dc-4644-bcd0-a916f882db8b
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/Old_Summoners_Rift_V2_by_TheKillerey__16.9.0_/Old.Summoners.Rift.V2.by.TheKillerey_.16.9.0.fantome

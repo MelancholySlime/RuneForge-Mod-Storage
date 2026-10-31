@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : Anima Squad Rift - V16.21.1_[1.1.4].fantome
+Mod      : Anima Squad Rift Battle for Final City — Recreated
+Source   : https://runeforge.dev/mods/9a8e1625-9d85-4733-b1bf-877d817ca36f
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/Anima_Squad_Rift_-_V16.21.1__1.1.4_/Anima.Squad.Rift.-.V16.21.1_.1.1.4.fantome
