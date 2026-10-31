@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : Spirit_Blossom_Rift_by_Moga_v16.15.2.25.0.fantome
+Mod      : Spirit Blossom Rift (2025)
+Source   : https://runeforge.dev/mods/c7f39559-9fce-40e5-9a06-534dd44cf674
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/Spirit_Blossom_Rift_by_Moga_v16.15.2.25.0/Spirit_Blossom_Rift_by_Moga_v16.15.2.25.0.fantome
