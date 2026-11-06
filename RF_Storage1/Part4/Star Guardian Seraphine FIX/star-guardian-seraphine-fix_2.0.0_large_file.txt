@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : star-guardian-seraphine-fix_2.0.0.fantome
+Mod      : Star Guardian Seraphine FIX
+Source   : https://runeforge.dev/mods/c31464f0-2740-4ff4-bca8-0de904025510
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/star-guardian-seraphine-fix_2.0.0/star-guardian-seraphine-fix_2.0.0.fantome
