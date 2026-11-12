@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : naoya-zen-in-hecarim_1.0.0_[v1.0.1].fantome
+Mod      : Naoya Zen'in Hecarim (Bubble Pop Electric)
+Source   : https://runeforge.dev/mods/3c7a1405-cc0e-4ac5-900d-2a10a2487f04
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/naoya-zen-in-hecarim_1.0.0__v1.0.1_/naoya-zen-in-hecarim_1.0.0_.v1.0.1.fantome

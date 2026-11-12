@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : elsa-lux_0.1.0.fantome
+Mod      : Elsa Frozen Lux
+Source   : https://runeforge.dev/mods/ed9e18bb-0237-4841-86ed-536929456909
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/elsa-lux_0.1.0/elsa-lux_0.1.0.fantome
