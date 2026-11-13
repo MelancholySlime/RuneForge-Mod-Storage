@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : hachiware-teemo_1.0.0.fantome
+Mod      : Hachiware - Teemo
+Source   : https://runeforge.dev/mods/99199d59-fc4d-4bcf-bf2b-713ec04ddd61
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/hachiware-teemo_1.0.0/hachiware-teemo_1.0.0.fantome
