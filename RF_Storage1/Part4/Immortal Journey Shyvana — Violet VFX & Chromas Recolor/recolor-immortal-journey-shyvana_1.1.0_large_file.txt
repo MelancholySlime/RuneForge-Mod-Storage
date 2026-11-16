@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : recolor-immortal-journey-shyvana_1.1.0.fantome
+Mod      : Immortal Journey Shyvana — Violet VFX & Chromas Recolor
+Source   : https://runeforge.dev/mods/7ba0f099-5b3a-46a7-8e21-00939e2af9a5
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/recolor-immortal-journey-shyvana_1.1.0/recolor-immortal-journey-shyvana_1.1.0.fantome

@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : yoshikage-kira-gangplank_1.0.0.fantome
+Mod      : Yoshikage Kira - Gangplank
+Source   : https://runeforge.dev/mods/46c37b58-2dcb-4795-afee-e7f4a6021cfa
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/yoshikage-kira-gangplank_1.0.0/yoshikage-kira-gangplank_1.0.0.fantome
