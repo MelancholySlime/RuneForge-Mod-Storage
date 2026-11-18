@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : risotto-nero-vladimir_1.0.0.fantome
+Mod      : Risotto Nero - Vladimir
+Source   : https://runeforge.dev/mods/be0dd542-45ed-46b3-ad86-67ec36cc5279
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/risotto-nero-vladimir_1.0.0/risotto-nero-vladimir_1.0.0.fantome
