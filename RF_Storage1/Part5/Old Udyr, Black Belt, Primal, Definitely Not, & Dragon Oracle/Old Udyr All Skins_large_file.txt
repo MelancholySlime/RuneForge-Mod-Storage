@@ -1,0 +1,5 @@
+[LARGE FILE - STORED IN GITHUB RELEASES]
+Filename : Old Udyr All Skins.fantome
+Mod      : Old Udyr, Black Belt, Primal, Definitely Not, & Dragon Oracle
+Source   : https://runeforge.dev/mods/6c50acb0-da50-4d02-96c0-ba79833dffe8
+Download : https://github.com/MelancholySlime/RuneForge-Mod-Storage/releases/download/Old_Udyr_All_Skins/Old.Udyr.All.Skins.fantome
